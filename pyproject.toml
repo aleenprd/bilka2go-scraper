@@ -1,0 +1,11 @@
+[project]
+name = "bilka2go-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crawl4ai>=0.6.3",
+    "loguru>=0.7.3",
+    "playwright>=1.52.0",
+]
