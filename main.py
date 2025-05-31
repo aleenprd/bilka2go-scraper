@@ -5,6 +5,8 @@ import asyncio
 from loguru import logger
 from crawl4ai import AsyncWebCrawler, BrowserConfig, CrawlerRunConfig, CacheMode
 from crawl4ai.extraction_strategy import JsonCssExtractionStrategy
+from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
+from crawl4ai.content_filter_strategy import PruningContentFilter
 
 
 BASE_URL = "https://www.bilkatogo.dk/"
@@ -111,6 +113,7 @@ LOAD_MORE_JS = """
 }
 """
 
+
 async def do_scrape(
     url: str,
     browser_config: BrowserConfig,
@@ -144,9 +147,18 @@ async def do_scrape(
         If the format is not supported or if the URL is invalid.
 
     """
-    if format not in ["markdown", "cleaned_html", "json"]:
+    if format not in [
+        "markdown",
+        "cleaned_html",
+        "json",
+        "fit_markdown",
+        "raw_markdown",
+        "html",
+    ]:
         raise ValueError(
-            "Unsupported Format - only 'markdown', 'cleaned_html' and 'json' are supported."
+            "Unsupported Format: only 'markdown', 'cleaned_html', 'json', 'fit_markdown', "
+            "'raw_markdown', and 'html' are supported."
+            " Please choose one of these formats."
         )
 
     if not url.startswith("http"):
@@ -159,16 +171,37 @@ async def do_scrape(
         # Use CacheMode.BYPASS to ensure fresh content is fetched)
         result = await crawler.arun(url=url, config=run_config)
 
-        if format == "cleaned_html":
+        if not result.success:
+            logger.error(f"Crawl failed: {result.error_message}")
+            logger.error(f"Status code: {result.status_code}")
+            return None
+
+        data = json.loads(result.extracted_content)
+        if not data:
+            logger.warning("No data extracted from the page.")
+            return None
+        else:
+            # Save the raw JSON data to a file for debugging
+            with open("bilkatogo.json", "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=4)
+        logger.info(f"Data extracted successfully: {len(data)} items found.")
+        
+        if format == "html":
+            return result.html
+        elif format == "cleaned_html":
             return result.cleaned_html
         elif format == "markdown":
             return result.markdown
+        elif format == "fit_markdown":
+            return result.markdown.fit_markdown
+        elif format == "raw_markdown":
+            return result.markdown.raw_markdown
         elif format == "json":
             return result.json
 
 
 def main():
-    logger.add(sys.stderr, level="INFO")
+    # logger.add(sys.stderr, level="INFO")
     logger.info("Starting the web scraping process...")
 
     browser_config = BrowserConfig(
@@ -176,14 +209,121 @@ def main():
         headless=False,  # Set to False for debugging; True for production
         use_managed_browser=False,
         verbose=True,
-        text_mode=False, # Set to True for text mode (disables images, CSS, etc.)
-        java_script_enabled=True, 
+        text_mode=False,  # Set to True for text mode (disables images, CSS, etc.)
+        java_script_enabled=True,
         user_agent_mode="random",
         viewport_width=2560,
         viewport_height=1440,
         light_mode=False,  # Set to True for light mode (disables features for performance optimization)
     )
+    # prune_filter = PruningContentFilter(
+    #     threshold=0.5,
+    #     threshold_type="fixed",  # or "dynamic"
+    #     min_word_threshold=3
+    # )
+    fit_md_generator = DefaultMarkdownGenerator(
+        # content_filter=prune_filter,
+        content_source="fit_html",
+        options={"ignore_links": False, "ignore_images": True, "ignore_tables": False},
+    )
+    schema = {
+        "name": "Products",
+        "baseSelector": ".product-card-container",
+        "fields": [
+            # Basic product information
+            {
+                "name": "title",
+                "selector": "p.name.text-break",
+                "type": "text"
+            },
+            {
+                "name": "description", 
+                "selector": "p.description", 
+                "type": "text"
+            },
+            {
+                "name": "price",
+                "selector": ".product-price__integer",
+                "type": "text"
+            },
+            {
+                "name": "productId",
+                "selector": "div.product-card",
+                "type": "attribute",
+                "attribute": "data-productid"
+            },
+            
+            # Product URL
+            {
+                "name": "productUrl",
+                "selector": "a.product-card__link",
+                "type": "attribute",
+                "attribute": "href"
+            },
+            
+            # Image data
+            {
+                "name": "imageUrl",
+                "selector": "img.product-image",
+                "type": "attribute",
+                "attribute": "src"
+            },
+            # Product producer (often in the description)
+            {
+                "name": "producer",
+                "selector": "p.description span:nth-child(1)",
+                "type": "text"
+            },
+            
+            # Product quantity/unit info (often in the description)
+            {
+                "name": "quantity",
+                "selector": "p.description span:nth-last-child(2)",
+                "type": "text"
+            },
+            
+            # Price per unit (if available)
+            {
+                "name": "pricePerUnit",
+                "selector": "p.description span:nth-last-child(1)",
+                "type": "text"
+            },
+            
+            # Labels (if available)
+            {
+                "name": "label1",
+                "selector": "div.m-2.product-labels div:nth-child(1) img",
+                "type": "attribute",
+                "attribute": "alt"  
+            },
+            {
+                "name": "label2",
+                "selector": "div.m-2.product-labels div:nth-child(2) img",
+                "type": "attribute",
+                "attribute": "alt"  
+            },
+            {
+                "name": "label3",
+                "selector": "div.m-2.product-labels div:nth-child(3) img",
+                "type": "attribute",
+                "attribute": "alt"  
+            },
+
+            # Labels (collected as an array)
+            # {
+            #     "name": "labels",
+            #     "selector": "div.label-background",
+            #     "type": "attribute",
+            #     "attribute": "alt",
+            #     "multiple": True  # This makes it return an array of all matches
+            # }
+        ]
+    }
+     
     run_cfg = CrawlerRunConfig(
+        # markdown_generator=fit_md_generator,
+        extraction_strategy=JsonCssExtractionStrategy(schema),
+        css_selector="#__layout > div > div.mini-basket-padding.print--no-padding.print--no-margin.white-frame > div > div:nth-child(5)",
         wait_until="domcontentloaded",  # Wait until the DOM is fully loaded
         js_code=f"""
         // Initial wait for page to load
@@ -314,12 +454,12 @@ def main():
         
         console.log("Scraping complete!");
         """,
-        delay_before_return_html=3,
+        delay_before_return_html=1,
         scan_full_page=True,
         scroll_delay=2,
-        remove_overlay_elements=True,
+        remove_overlay_elements=False,
         remove_forms=False,
-        simulate_user=True,
+        simulate_user=False,
         verbose=True,
         process_iframes=False,  # Process iframes to extract content
         magic=False,  # Enable magic mode for advanced scraping features

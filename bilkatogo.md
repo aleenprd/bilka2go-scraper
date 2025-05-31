@@ -1,649 +1,3 @@
-## Du bestemmer over dine data
-Salling Group A/S og vores samarbejdspartnere bruger cookies, pixels og tilsvarende teknologier via hjemmesiden (”Cookies”) for at få hjemmesiden til at fungere (nødvendige Cookies), huske dine indstillinger og skabe en bedre brugeroplevelse (funktionelle Cookies), til at analysere din adfærd for at optimere hjemmesiden (statistiske Cookies) og til at målrette markedsføring til dig via hjemmesider, apps og på sociale medier (markedsføring Cookies). Vores Cookies indsamler oplysninger om et unikt ID, tekniske oplysninger om din enhed, sideindstillinger og præferencer, din IP-adresse, din geografiske placering, hvilke sider du klikker på (interesser og søgehistorik), information om køb, tidspunkt for besøg, demografiske data og i visse tilfælde en hashet e-mail (”Oplysninger”). Dine Oplysninger kan med dit samtykke blive behandlet af os og videregivet til vores samarbejdspartnere (f.eks. [Googles](https://business.safety.google/privacy/)) inden for sociale medier, annoncering og analyse. Vores samarbejdspartnere kan kombinere disse Oplysninger med andre oplysninger, som du har givet dem tidligere, eller som de har indsamlet via din brug af deres tjenester. Ved at klikke på vores [privatlivspolitik](https://www.sallinggroup.com/privatlivspolitik#2.4.1) og trykke ”vis detaljer” kan du se nærmere beskrivelser af formålene for de enkelte Cookies, hvem der sætter hver enkelt Cookie, rollefordelingen mellem os og samarbejdspartneren samt hvor længe hver Cookie opbevares via dit terminaludstyr. Du kan altid ændre eller tilbagekalde dit samtykke ved at trykke på det lille cookielogo i nederste venstre hjørne på hjemmesiden. [Om cookies](javascript:TogglePage\(this, 'coiPage-3'\);) [Googles privatlivspolitik](https://business.safety.google/privacy/)
-Vis detaljer Skjul detaljer
-### Nødvendige
-Nødvendige cookies hjælper med at gøre en hjemmeside brugbar ved at aktivere grundlæggende funktioner, såsom side-navigation og adgang til sikre områder af hjemmesiden. Hjemmesiden kan ikke fungere optimalt uden disse cookies.
-Databehandler: | Cookie Information  
----|---  
-Formål: | Bruges til at dele samtykke på tværs af domæner.  
-Privatlivspolitik: | [Cookie Information - Privatlivspolitik(opens in a new tab)](https://cookieinformation.com/cookie-and-privacy-policy/ "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | CookieInformationConsent_xxx  
-Udbyder: | policy.app.cookieinformation.com  
-Databehandler: | Datadog  
-Formål: |   
-Privatlivspolitik: | [Datadog - Privatlivspolitik(opens in a new tab)](https://www.datadoghq.com/legal/privacy/ "Privatlivspolitik")  
-Udløb: | 15 minutter  
-Navn: | _dd_s  
-Udbyder: | www.bilka.dk  
-Databehandler: | Gigya, SAP Customer Data Cloud  
-Formål: | Cookien sikrer, at en brugeren kan forblive logget ind.  
-Privatlivspolitik: | [Gigya, SAP Customer Data Cloud - Privatlivspolitik(opens in a new tab)](https://www.gigya.com/privacy-policy "Privatlivspolitik")  
-Udløb: | 6 måneder  
-Navn: | hasGmid  
-Udbyder: | .dk-bilka.bilka.dk  
-Databehandler: | Gigya, SAP Customer Data Cloud  
-Formål: | Gigya - Internal cookie for the Web SDK - If declined, user may be intermittently logged out.  
-Privatlivspolitik: | [Gigya, SAP Customer Data Cloud - Privatlivspolitik(opens in a new tab)](https://www.gigya.com/privacy-policy "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | gig_bootstrap_3_lwOU060SgqDZaEnRSDHIQhsUuEoXIC4aFrjscNWD82n7ups9ga4r4282TmugWuhd  
-Udbyder: | .bilka.dk  
-Databehandler: | Cookie Information  
-Formål: | Understøtter websitets tekniske funktioner.  
-Privatlivspolitik: | [Cookie Information - Privatlivspolitik(opens in a new tab)](https://cookieinformation.com/cookie-and-privacy-policy/ "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | CookieInformationConsent  
-Udbyder: | www.bilka.dk  
-Databehandler: | Gigya, SAP Customer Data Cloud  
-Formål: | Cookien definerer, hvor lang tid hjemmesiden kan gemme og/eller læse visse data fra brugeren computer.  
-Privatlivspolitik: | [Gigya, SAP Customer Data Cloud - Privatlivspolitik(opens in a new tab)](https://www.gigya.com/privacy-policy "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | ucid  
-Udbyder: | .dk-bilka.bilka.dk  
-Databehandler: | Gigya, SAP Customer Data Cloud  
-Formål: | Gigya - A temp cookie used to check if 3rd party cookies are blocked  
-Privatlivspolitik: | [Gigya, SAP Customer Data Cloud - Privatlivspolitik(opens in a new tab)](https://www.gigya.com/privacy-policy "Privatlivspolitik")  
-Udløb: | få sekunder  
-Navn: | gig3pctest  
-Udbyder: | .gigya.com  
-Databehandler: | Gigya, SAP Customer Data Cloud  
-Formål: | Cookien anvendes til at brugeren kan logge ind på hjemmesiden.   
-Privatlivspolitik: | [Gigya, SAP Customer Data Cloud - Privatlivspolitik(opens in a new tab)](https://www.gigya.com/privacy-policy "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | gmid  
-Udbyder: | .dk-bilka.bilka.dk  
-Databehandler: | Cookie Information  
-Formål: | Understøtter websitets tekniske funktioner.  
-Privatlivspolitik: | [Cookie Information - Privatlivspolitik(opens in a new tab)](https://cookieinformation.com/cookie-and-privacy-policy/ "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | CookieInformationConfig  
-Udbyder: | policy.app.cookieinformation.com  
-Databehandler: | Datadog  
-Formål: |   
-Privatlivspolitik: | [Datadog - Privatlivspolitik(opens in a new tab)](https://www.datadoghq.com/legal/privacy/ "Privatlivspolitik")  
-Udløb: | 15 minutter  
-Navn: | _dd_s  
-Udbyder: | www.bilkatogo.dk  
-Databehandler: | Improve Digital  
-Formål: |   
-Privatlivspolitik: | [Improve Digital - Privatlivspolitik(opens in a new tab)](https://www.improvedigital.com/privacy-policy "Privatlivspolitik")  
-Udløb: | 7 dage  
-Navn: | cart_ORDERED_LIMIT_WARNING  
-Udbyder: | api.bilkatogo.dk  
-Databehandler: | Improve Digital  
-Formål: |   
-Privatlivspolitik: | [Improve Digital - Privatlivspolitik(opens in a new tab)](https://www.improvedigital.com/privacy-policy "Privatlivspolitik")  
-Udløb: | 6 dage  
-Navn: | hd_zipcode  
-Udbyder: | api.bilkatogo.dk  
-Databehandler: | Shopify  
-Formål: | Understøtter integrationen af ​​en tredjeparts platform på websitet.  
-Privatlivspolitik: | [Shopify - Privatlivspolitik(opens in a new tab)](https://www.shopify.com/legal/privacy "Privatlivspolitik")  
-Udløb: | 7 dage  
-Navn: | cart  
-Udbyder: | api.bilkatogo.dk  
-Databehandler: | PHP  
-Formål: | Påkrævet for at websitet kan fungere.  
-Privatlivspolitik: | [PHP - Privatlivspolitik(opens in a new tab)](https://www.bilkatogo.dk/kategori/frugt-og-groent/ "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | PHPSESSID  
-Udbyder: | api.bilkatogo.dk  
-Databehandler: | Cookie Information  
-Formål: | Understøtter websitets tekniske funktioner.  
-Privatlivspolitik: | [Cookie Information - Privatlivspolitik(opens in a new tab)](https://cookieinformation.com/cookie-and-privacy-policy/ "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | CookieInformationConsent  
-Udbyder: | www.bilkatogo.dk  
-Databehandler: | YoungCRM  
-Formål: |   
-Privatlivspolitik: | [YoungCRM - Privatlivspolitik(opens in a new tab)](https://youngcrm-platform.com "Privatlivspolitik")  
-Udløb: | 7 dage  
-Navn: | AWSALBAPP-2  
-Udbyder: | youngcrm.com  
-Databehandler: | YoungCRM  
-Formål: |   
-Privatlivspolitik: | [YoungCRM - Privatlivspolitik(opens in a new tab)](https://youngcrm-platform.com "Privatlivspolitik")  
-Udløb: | 7 dage  
-Navn: | AWSALBAPP-3  
-Udbyder: | youngcrm.com  
-Databehandler: |   
-Formål: | Afventer  
-Udløb: | 2 timer  
-Navn: | XSRF-TOKEN  
-Udbyder: | utility-companyoung.com  
-Databehandler: | YoungCRM  
-Formål: |   
-Privatlivspolitik: | [YoungCRM - Privatlivspolitik(opens in a new tab)](https://youngcrm-platform.com "Privatlivspolitik")  
-Udløb: | 7 dage  
-Navn: | AWSALBAPP-0  
-Udbyder: | youngcrm.com  
-Databehandler: | YoungCRM  
-Formål: |   
-Privatlivspolitik: | [YoungCRM - Privatlivspolitik(opens in a new tab)](https://youngcrm-platform.com "Privatlivspolitik")  
-Udløb: | 7 dage  
-Navn: | AWSALBAPP-1  
-Udbyder: | youngcrm.com  
-Databehandler: | Cloudflare  
-Formål: | Afventer  
-Privatlivspolitik: | [Cloudflare - Privatlivspolitik(opens in a new tab)](https://www.cloudflare.com/privacypolicy/ "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | _cfuvid  
-Udbyder: | .support.bilka.dk  
-Databehandler: | Cloudflare  
-Formål: | Afventer  
-Privatlivspolitik: | [Cloudflare - Privatlivspolitik(opens in a new tab)](https://www.cloudflare.com/privacypolicy/ "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | _cfuvid  
-Udbyder: | .support.bilkatogo.dk  
-Databehandler: | Cookie Information  
-Formål: | Understøtter websitets tekniske funktioner.  
-Privatlivspolitik: | [Cookie Information - Privatlivspolitik(opens in a new tab)](https://cookieinformation.com/cookie-and-privacy-policy/ "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | CookieInformationConsent  
-Udbyder: | www.bilkamadudafhuset.dk  
-Databehandler: | Hello Retail  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Hello Retail - Privatlivspolitik(opens in a new tab)](https://support.helloretail.com/t/m2948v/about-cookie-tracking "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | __Secure-ENID  
-Udbyder: | google.com  
-### Funktionelle
-Vi indsamler oplysninger om dine foretrukne indstillinger og valg på hjemmesiden. Det gør vi for at kunne vise dig den version af hjemmesiden, der passer til dine præferencer. Oplysningerne bliver brugt til at afgøre, hvilken region og sprog du foretrækker, til at vise videoer og andre visuelle elementer på hjemmesiden fx jobsøgning.
-Databehandler: | Datadog  
----|---  
-Formål: | Sikrer websitets og applikationssikkerheden.  
-Privatlivspolitik: | [Datadog - Privatlivspolitik(opens in a new tab)](https://www.datadoghq.com/legal/privacy/ "Privatlivspolitik")  
-Udløb: | et minut  
-Navn: | dd_cookie_testxxx  
-Udbyder: | www.bilka.dk  
-Databehandler: | Google  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.  
-Privatlivspolitik: | [Google - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | en måned  
-Navn: | ar_debug  
-Udbyder: | .doubleclick.net  
-Databehandler: | Microsoft  
-Formål: | Understøtter integrationen af ​​en tredjeparts platform på websitet.  
-Privatlivspolitik: | [Microsoft - Privatlivspolitik(opens in a new tab)](https://www.microsoft.com/en-us/privacy/privacystatement "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | MSPTC  
-Udbyder: | .bing.com  
-Databehandler: | Adform  
-Formål: | Understøtter integrationen af ​​en tredjeparts platform på websitet.  
-Privatlivspolitik: | [Adform - Privatlivspolitik(opens in a new tab)](https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy "Privatlivspolitik")  
-Udløb: | 6 måneder  
-Navn: | receive-cookie-deprecation  
-Udbyder: | .doubleclick.net  
-Databehandler: | Datadog  
-Formål: | Sikrer websitets og applikationssikkerheden.  
-Privatlivspolitik: | [Datadog - Privatlivspolitik(opens in a new tab)](https://www.datadoghq.com/legal/privacy/ "Privatlivspolitik")  
-Udløb: | et minut  
-Navn: | dd_cookie_testxxx  
-Udbyder: | www.bilkatogo.dk  
-Databehandler: | Google  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.  
-Privatlivspolitik: | [Google - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | 3 måneder  
-Navn: | ar_debug  
-Udbyder: | .region1.google-analytics.com  
-Databehandler: | Improve Digital  
-Formål: |   
-Privatlivspolitik: | [Improve Digital - Privatlivspolitik(opens in a new tab)](https://www.improvedigital.com/privacy-policy "Privatlivspolitik")  
-Udløb: | 6 dage  
-Navn: | dawa_address_cache_key  
-Udbyder: | api.bilkatogo.dk  
-Databehandler: | YoungCRM  
-Formål: | Aktiverer rekrutteringsfunktionen på websitet.  
-Privatlivspolitik: | [YoungCRM - Privatlivspolitik(opens in a new tab)](https://youngcrm-platform.com "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | ycrm_session  
-Udbyder: | .youngcrm.com  
-Databehandler: | Zendesk  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.  
-Privatlivspolitik: | [Zendesk - Privatlivspolitik(opens in a new tab)](https://www.zendesk.com/company/customers-partners/privacy-policy "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | _help_center_session  
-Udbyder: | support.bilka.dk  
-Databehandler: | Cloudflare  
-Formål: | Understøtter websitets tekniske funktioner.  
-Privatlivspolitik: | [Cloudflare - Privatlivspolitik(opens in a new tab)](https://www.cloudflare.com/privacypolicy/ "Privatlivspolitik")  
-Udløb: | 30 minutter  
-Navn: | __cf_bm  
-Udbyder: | .support.bilka.dk  
-Databehandler: | Zendesk  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.  
-Privatlivspolitik: | [Zendesk - Privatlivspolitik(opens in a new tab)](https://www.zendesk.com/company/customers-partners/privacy-policy "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | _zendesk_shared_session  
-Udbyder: | support.bilka.dk  
-Databehandler: | Zendesk  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.  
-Privatlivspolitik: | [Zendesk - Privatlivspolitik(opens in a new tab)](https://www.zendesk.com/company/customers-partners/privacy-policy "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | _zendesk_session  
-Udbyder: | support.bilka.dk  
-Databehandler: | Zendesk  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.  
-Privatlivspolitik: | [Zendesk - Privatlivspolitik(opens in a new tab)](https://www.zendesk.com/company/customers-partners/privacy-policy "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | _help_center_session  
-Udbyder: | support.bilkatogo.dk  
-Databehandler: | Cloudflare  
-Formål: | Understøtter websitets tekniske funktioner.  
-Privatlivspolitik: | [Cloudflare - Privatlivspolitik(opens in a new tab)](https://www.cloudflare.com/privacypolicy/ "Privatlivspolitik")  
-Udløb: | 29 minutter  
-Navn: | __cf_bm  
-Udbyder: | .support.bilkatogo.dk  
-### Statistiske
-Vi indsamler oplysninger om, hvordan du interagerer med hjemmesiden, herunder hvor ofte du besøger siden, og hvilke sider du kigger på. Det gør vi for at kunne optimere design, brugervenlighed og styrke effektiviteten af hjemmesiden. Derudover bruger vi oplysningerne til at give dig personaliseret indhold og udarbejde markedsanalyser.
-Databehandler: | Scarab Research  
----|---  
-Formål: | Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og for at imødekomme de enkelte brugers behov.  
-Privatlivspolitik: | [Scarab Research - Privatlivspolitik(opens in a new tab)](https://www.scarabresearch.com/privacy "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | s  
-Udbyder: | recommender.scarabresearch.com  
-Databehandler: | Scarab Research  
-Formål: | Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og for at imødekomme de enkelte brugers behov.  
-Privatlivspolitik: | [Scarab Research - Privatlivspolitik(opens in a new tab)](https://www.scarabresearch.com/privacy "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | cdv  
-Udbyder: | recommender.scarabresearch.com  
-Databehandler: | Google Analytics  
-Formål: |   
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga_xxx  
-Udbyder: | www.bilka.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | en dag  
-Navn: | _gid  
-Udbyder: | www.bilka.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | få sekunder  
-Navn: | _dc_gtm_UA-xxx-xxx  
-Udbyder: | .bilka.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | få sekunder  
-Navn: | _gat_UA-xxx-xxx  
-Udbyder: | .bilka.dk  
-Databehandler: | Google Analytics  
-Formål: |   
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga_xxx  
-Udbyder: | .bilka.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga  
-Udbyder: | .bilka.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | en dag  
-Navn: | _gid  
-Udbyder: | .bilka.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga  
-Udbyder: | www.bilka.dk  
-Databehandler: | Google Analytics  
-Formål: |   
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga_xxx  
-Udbyder: | .www.bilka.dk  
-Databehandler: | Scarab Research  
-Formål: | Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og for at imødekomme de enkelte brugers behov.  
-Privatlivspolitik: | [Scarab Research - Privatlivspolitik(opens in a new tab)](https://www.scarabresearch.com/privacy "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | xp  
-Udbyder: | recommender.scarabresearch.com  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et minut  
-Navn: | _gat_UA-xxx-xxx  
-Udbyder: | .bilkatogo.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | en dag  
-Navn: | _gid  
-Udbyder: | .bilkatogo.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga  
-Udbyder: | .bilkatogo.dk  
-Databehandler: | Google Analytics  
-Formål: |   
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga_xxx  
-Udbyder: | www.bilkatogo.dk  
-Databehandler: | Google Analytics  
-Formål: |   
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga_xxx  
-Udbyder: | .www.bilkatogo.dk  
-Databehandler: | Google Analytics  
-Formål: |   
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga_xxx  
-Udbyder: | .bilkatogo.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et minut  
-Navn: | _dc_gtm_UA-xxx-xxx  
-Udbyder: | .bilkatogo.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | en dag  
-Navn: | _gid  
-Udbyder: | .bilkamadudafhuset.dk  
-Databehandler: | Google Analytics  
-Formål: |   
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga_xxx  
-Udbyder: | .bilkamadudafhuset.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et minut  
-Navn: | _gat_UA-xxx-xxx  
-Udbyder: | .bilkamadudafhuset.dk  
-Databehandler: | Google Analytics  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål.  
-Privatlivspolitik: | [Google Analytics - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ga  
-Udbyder: | .bilkamadudafhuset.dk  
-### Marketing
-Vi indsamler oplysninger om dine interesser, herunder hvilke sider og annoncer du klikker på, hvilke produkter eller ydelser du viser interesse for, eller køber, på denne og andre hjemmesider. Det gør vi for at kunne vise dig annoncer, der er relevante for dig og dine interesser. For at kunne vise dig målrettede annoncer på denne og andre hjemmesider, samarbejder vi med andre virksomheder, som vi deler oplysninger med. Det kan du læse mere om herunder.
-Databehandler: | Emarsys  
----|---  
-Formål: | It stores a server side generated session id for session length identification  
-Privatlivspolitik: | [Emarsys - Privatlivspolitik(opens in a new tab)](https://emarsys.com/privacy-policy/ "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | s  
-Udbyder: | recommender-eu.scarabresearch.com  
-Databehandler: | Youtube, Google  
-Formål: |   
-Privatlivspolitik: | [Youtube, Google - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | 6 måneder  
-Navn: | VISITOR_PRIVACY_METADATA  
-Udbyder: | .youtube.com  
-Databehandler: | TikTok  
-Formål: | Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme.  
-Privatlivspolitik: | [TikTok - Privatlivspolitik(opens in a new tab)](https://www.tiktok.com/legal/page/eea/privacy-policy/en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ttp  
-Udbyder: | .tiktok.com  
-Databehandler: | TikTok  
-Formål: | Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme.  
-Privatlivspolitik: | [TikTok - Privatlivspolitik(opens in a new tab)](https://www.tiktok.com/legal/page/eea/privacy-policy/en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _tt_enable_cookie  
-Udbyder: | .bilka.dk  
-Databehandler: | Youtube, Google  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering.  
-Privatlivspolitik: | [Youtube, Google - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | 6 måneder  
-Navn: | VISITOR_INFO1_LIVE  
-Udbyder: | .youtube.com  
-Databehandler: | Youtube, Google  
-Formål: | Understøtter integrationen af ​​en tredjeparts platform på websitet.  
-Privatlivspolitik: | [Youtube, Google - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | 6 måneder  
-Navn: | __Secure-ROLLOUT_TOKEN  
-Udbyder: | .youtube.com  
-Databehandler: | Google Tag Manager  
-Formål: | Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering.  
-Privatlivspolitik: | [Google Tag Manager - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | 3 måneder  
-Navn: | _gcl_au  
-Udbyder: | .bilka.dk  
-Databehandler: | Emarsys  
-Formål: | It contains user profile data in a serialized, encrypted format. The data is covering events, such as, item view, category view and searches.  
-Privatlivspolitik: | [Emarsys - Privatlivspolitik(opens in a new tab)](https://emarsys.com/privacy-policy/ "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | xp  
-Udbyder: | recommender-eu.scarabresearch.com  
-Databehandler: | Google Marketing Platform  
-Formål: | Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder.  
-Privatlivspolitik: | [Google Marketing Platform - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | IDE  
-Udbyder: | .doubleclick.net  
-Databehandler: | Emarsys  
-Formål: | This cookie stores user profile information, products the user browsed, etc.  
-Privatlivspolitik: | [Emarsys - Privatlivspolitik(opens in a new tab)](https://emarsys.com/privacy-policy/ "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | scarab.visitor  
-Udbyder: | .bilka.dk  
-Databehandler: | Facebook  
-Formål: | Identificerer browsere med det formål at levere reklamer og website statistik.  
-Privatlivspolitik: | [Facebook - Privatlivspolitik(opens in a new tab)](https://www.facebook.com/privacy/explanation "Privatlivspolitik")  
-Udløb: | 3 måneder  
-Navn: | _fbp  
-Udbyder: | .bilka.dk  
-Databehandler: | Microsoft, Bing  
-Formål: | Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.  
-Privatlivspolitik: | [Microsoft, Bing - Privatlivspolitik(opens in a new tab)](https://www.microsoft.com/en-us/privacy/privacystatement "Privatlivspolitik")  
-Udløb: | en dag  
-Navn: | _uetsid  
-Udbyder: | .bilka.dk  
-Databehandler: | TikTok  
-Formål: | Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme.  
-Privatlivspolitik: | [TikTok - Privatlivspolitik(opens in a new tab)](https://www.tiktok.com/legal/page/eea/privacy-policy/en "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _ttp  
-Udbyder: | .bilka.dk  
-Databehandler: | Microsoft, Bing  
-Formål: | Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering.  
-Privatlivspolitik: | [Microsoft, Bing - Privatlivspolitik(opens in a new tab)](https://privacy.microsoft.com/en-us/privacystatement "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | _uetvid  
-Udbyder: | .bilka.dk  
-Databehandler: | Microsoft, Bing  
-Formål: | Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.  
-Privatlivspolitik: | [Microsoft, Bing - Privatlivspolitik(opens in a new tab)](https://www.microsoft.com/en-us/privacy/privacystatement "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | MUID  
-Udbyder: | .bing.com  
-Databehandler: | Emarsys  
-Formål: | This cookie stores user profile information, products the user browsed, etc.  
-Privatlivspolitik: | [Emarsys - Privatlivspolitik(opens in a new tab)](https://emarsys.com/privacy-policy/ "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | scarab.profile  
-Udbyder: | .bilka.dk  
-Databehandler: | Youtube, Google  
-Formål: | Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering.  
-Privatlivspolitik: | [Youtube, Google - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | YSC  
-Udbyder: | .youtube.com  
-Databehandler: | Emarsys  
-Formål: | Collects information about the users and their activity on the website. The information is used to track and analyze user behavior and to meet individual user needs  
-Privatlivspolitik: | [Emarsys - Privatlivspolitik(opens in a new tab)](https://emarsys.com/privacy-policy/ "Privatlivspolitik")  
-Udløb: | et år  
-Navn: | cdv  
-Udbyder: | recommender-eu.scarabresearch.com  
-Databehandler: | Emarsys  
-Formål: | This cookie stores user profile information, products the user browsed, etc.  
-Privatlivspolitik: | [Emarsys - Privatlivspolitik(opens in a new tab)](https://emarsys.com/privacy-policy/ "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | scarab.profile  
-Udbyder: | .bilkatogo.dk  
-Databehandler: | Google Tag Manager  
-Formål: | Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering.  
-Privatlivspolitik: | [Google Tag Manager - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | 3 måneder  
-Navn: | _gcl_au  
-Udbyder: | .bilkatogo.dk  
-Databehandler: | Facebook  
-Formål: | Identificerer browsere med det formål at levere reklamer og website statistik.  
-Privatlivspolitik: | [Facebook - Privatlivspolitik(opens in a new tab)](https://www.facebook.com/privacy/explanation "Privatlivspolitik")  
-Udløb: | 3 måneder  
-Navn: | _fbp  
-Udbyder: | .bilkatogo.dk  
-Databehandler: | Emarsys  
-Formål: | This cookie stores user profile information, products the user browsed, etc.  
-Privatlivspolitik: | [Emarsys - Privatlivspolitik(opens in a new tab)](https://emarsys.com/privacy-policy/ "Privatlivspolitik")  
-Udløb: | Session  
-Navn: | scarab.visitor  
-Udbyder: | .bilkatogo.dk  
-Databehandler: | Cookie Information  
-Formål: | Cookie information  
-Privatlivspolitik: | [Cookie Information - Privatlivspolitik(opens in a new tab)](https://cookieinformation.com/cookie-and-privacy-policy/ "Privatlivspolitik")  
-Udløb: | 2 timer  
-Navn: | utility_session  
-Udbyder: | utility-companyoung.com  
-Databehandler: | Facebook  
-Formål: | Identificerer browsere med det formål at levere reklamer og website statistik.  
-Privatlivspolitik: | [Facebook - Privatlivspolitik(opens in a new tab)](https://www.facebook.com/privacy/explanation "Privatlivspolitik")  
-Udløb: | 3 måneder  
-Navn: | _fbp  
-Udbyder: | .bilkamadudafhuset.dk  
-Databehandler: | Google Tag Manager  
-Formål: | Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering.  
-Privatlivspolitik: | [Google Tag Manager - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | 3 måneder  
-Navn: | _gcl_au  
-Udbyder: | .bilkamadudafhuset.dk  
-Databehandler: | Google Marketing Platform  
-Formål: | Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder.  
-Privatlivspolitik: | [Google Marketing Platform - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | 15 minutter  
-Navn: | test_cookie  
-Udbyder: | .doubleclick.net  
-Databehandler: | Google Ads  
-Formål: |   
-Privatlivspolitik: | [Google Ads - Privatlivspolitik(opens in a new tab)](https://policies.google.com/technologies/partner-sites?hl=en "Privatlivspolitik")  
-Udløb: | Permanent  
-Navn: | _gcl_ga  
-Udbyder: | Google Adsense  
-### Uklassificerede
-Uklassificerede cookies er vi i færd med at klassificere sammen med udbyderne af de enkelte cookies.
-Databehandler: |   
----|---  
-Formål: |   
-Udløb: | et år  
-Navn: | ttcsid  
-Udbyder: | .www.bilka.dk  
-Databehandler: |   
-Formål: |   
-Udløb: | et år  
-Navn: | ttcsid  
-Udbyder: | .bilka.dk  
-Databehandler: |   
-Formål: |   
-Udløb: | et år  
-Navn: | ttcsid_CRQJBFBC77U5KN4TENF0  
-Udbyder: | .bilka.dk  
-Databehandler: |   
-Formål: |   
-Udløb: | et år  
-Navn: | ttcsid_CRQJBFBC77U5KN4TENF0  
-Udbyder: | .www.bilka.dk  
-Databehandler: |   
-Formål: |   
-Udløb: | en time  
-Navn: | cf_chl_rc_m  
-Udbyder: | support.bilka.dk  
-Kun nødvendige Opdater samtykke Accepter alle
-Nødvendige 
-Funktionelle 
-Statistiske 
-Marketing 
-powered by: [Cookie Information](https://cookieinformation.com/)
-## Cookiedeklaration
-**Dit samtykke gælder for følgende domæner:** bilka.dk, bilkatogo.dk, bilkajob.dk, support.bilka.dk, support.bilkatogo.dk, avis.bilka.dk, bilkamadudafhuset.dk, deploy-preview-2973--bilka.netlify.app **Cookiedeklarationen er sidst opdateret d. 29.05.2025**
-Bilka bruger cookies for at kunne levere den bedst mulige service til brugerne af vores hjemmeside. I vores cookie-politik kan du læse, hvordan vi håndterer brugen af cookies. I vores [privatlivspolitik](https://www.sallinggroup.com/privatlivspolitik#2.4.1) kan du læse, hvordan vi bruger de personoplysninger, som vores cookies indsamler om dig, når du besøger vores hjemmeside. **Hjemmesidens ejer og kontaktoplysninger** Denne hjemmeside er drevet og ejet af: Salling Group Rosbjergvej 33 8220 Brabrand CVR-nr: 35954716 Tlf: 87783000 **Cookies** Cookies er små tekstfiler, der indeholder bogstaver og tal som sættes på din computer eller anden enhed. Cookies sættes, når du besøger et websted, der bruger cookies og de kan bruges til at holde styr på hvilke sider du har besøgt, de kan hjælpe dig til at fortsætte, hvor du slap eller de kan huske dine sprogindstillinger eller andre præferencer. Cookies er vigtige for os for de hjælper til at gøre vores online-tjenester lettere at bruge, til at følge med i hvordan vores website bruges og til at hjælpe os med at levere den bedste service til dig.For at gøre det lettere for dig at overskue den måde hjemmesiden bruger cookies på, har vi grupperet vores cookies i nogle let-forståelige kategorier. Man kan se hver kategori og hver cookie i Cookiedeklarationen. Oplysningerne i Cookiedeklarationen er givet på en åben og gennemsigtig måde, så du tydeligt kan se, hvordan cookies bruges til at gøre dit besøg på websitet bedre og så du kan træffe et informeret valg om at tillade deres anvendelse. Hvis du alligevel ønsker at styre eller fjerne cookies, så kan du gøre det via indstillingerne i din webbrowser. Vær opmærksom på at det kan påvirke funktionaliteten af et website, hvis du fravælger cookies. Mange af deinteraktive funktioner, som websitet tilbyder, er afhængige af cookies og blokering eller sletning af cookies kan forhindre de funktioner i at virke eller reducere deres anvendelighed. Forskellige webbrowsere kan bruge forskellige metoder til håndtering af cookies. Følg vejledningen fra webbrowseren producenterne nedenfor for at konfigurere dine browser-indstillinger *. [Microsoft Internet Explorer (IE)](https://support.microsoft.com/da-dk/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11) [Google Chrome](http://support.google.com/chrome/bin/answer.py?hl=da&answer=95647) [Safari](http://support.apple.com/kb/PH5042) [Firefox](http://support.mozilla.org/da/kb/enable-and-disable-cookies-website-preferences) * Bemærk: Instruktionerne ovenfor er links direkte til webbrowserproducenten – Ingen former for ansvar kan gøres gældende over for os, hvis de er urigtige. Cookiedeklarationen opdateres hver måned af [Cookie Information](http://cookieinformation.com/). Hvis du har nogen spørgsmål, så skriv til info@cookieinformation.com.
-Cookie Indstillinger Accepter alle
-powered by: [Cookie Information](https://cookieinformation.com/)
-* Funktionelle
-* Statistiske
-* Marketing
-[bilka.dk](https://www.bilka.dk/) [bilkatogo.dk](https://www.bilkatogo.dk/) [bilkamadudafhuset.dk](https://www.bilkamadudafhuset.dk/)
-[Bilka Avisen](https://www.bilka.dk/bilkaavisen/)[Om BilkaToGo](https://www.bilkatogo.dk/inspiration/om-bilka-togo)[Kundeservice](https://support.bilkatogo.dk/hc/da#promoted-articles)
-Menu  [![BilkaToGo](https://www.bilkatogo.dk/images/svg/logo-white.svg)](https://www.bilkatogo.dk/)
-Nulstil 
-Ingen resultater for ""
-Log ind
-Kurv
-Kategorier 
-Skarpe priser 
-![icon](https://www.bilkatogo.dk/kategori/frugt-og-groent/) Bilka Avisen 
-Bilka Plus 
-![icon](https://www.bilkatogo.dk/kategori/frugt-og-groent/) Inspiration 
-☀️ Bright Friday 
-Ny kunde  Log ind 
-[![Frugt & grønt](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/b030d3b1-abf2-419c-ba24-2c362b967d67) Frugt & grønt  ](https://www.bilkatogo.dk/kategori/frugt-og-groent/)[![Kød & fisk](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/f0219010f4e44c751a209fc2e780a4a8) Kød & fisk  ](https://www.bilkatogo.dk/kategori/koed-og-fisk/)[![Mejeri & køl](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/2cec44bf-6726-4408-8971-9dc8650babe9) Mejeri & køl  ](https://www.bilkatogo.dk/kategori/mejeri-og-koel/)[![Drikkevarer](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/24b6120cf3b89905c3fbe9eaeb93117a) Drikkevarer  ](https://www.bilkatogo.dk/kategori/drikkevarer/)[![Brød & kager](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/84610a48-3d45-421e-ab6d-98e97894e8f7) Brød & kager  ](https://www.bilkatogo.dk/kategori/broed-og-kager/)[![Kolonial](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/d3c60edc-1543-49e3-b455-e86f311c0f69) Kolonial  ](https://www.bilkatogo.dk/kategori/kolonial/)[![Mad fra hele verden](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/d378534b-bd00-4b97-8e1a-de01dfcee5d0) Mad fra hele verden  ](https://www.bilkatogo.dk/kategori/mad-fra-hele-verden/)[![Slik & snacks](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/5b57d112e689da47c28eeb44b88f0dab) Slik & snacks  ](https://www.bilkatogo.dk/kategori/slik-og-snacks/)[![Frost](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/3f3d4234-d0c6-4410-892f-1b2790ffe81d) Frost  ](https://www.bilkatogo.dk/kategori/frost/)[![Kiosk](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/4dfa60cb166457ae23962c69f0c4c065) Kiosk  ](https://www.bilkatogo.dk/kategori/kiosk/)[![Dyremad](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/7b7855e4-339e-48d9-bf02-481a3fea9e04) Dyremad  ](https://www.bilkatogo.dk/kategori/dyremad/)[![Husholdning](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/3da0825c32241acdfbfb6dee0f6e43a3) Husholdning  ](https://www.bilkatogo.dk/kategori/husholdning/)[![Personlig pleje](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/fd75829f-4946-426c-b9c2-797c0866198f) Personlig pleje  ](https://www.bilkatogo.dk/kategori/personlig-pleje/)[![Baby & børn](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/fc2c58ff-b94c-45c7-a74b-96506eda823e) Baby & børn  ](https://www.bilkatogo.dk/kategori/baby-og-boern/)[![Bolig & køkken](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/da6947ca2708348d3cd909bed0ec66fc) Bolig & køkken  ](https://www.bilkatogo.dk/kategori/bolig-og-koekken/)[![Fritid & sport](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/97eb3536-4f76-4f4c-b39d-b756293b36b9) Fritid & sport  ](https://www.bilkatogo.dk/kategori/fritid-og-sport/)[![Tøj & sko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/6f1972f6ea8b39eeba3825113a7903a5) Tøj & sko  ](https://www.bilkatogo.dk/kategori/toej-og-sko/)[![Elektronik](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/836207151a1f13c2549afb960dca9ed3) Elektronik  ](https://www.bilkatogo.dk/kategori/elektronik/)[![Have](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/be35bd89a8395a9467e961acd0eed8fd) Have  ](https://www.bilkatogo.dk/kategori/have/)[![Leg](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/653a1f54f8ff511bd67b36e227b47d00) Leg  ](https://www.bilkatogo.dk/kategori/leg/)[![Byggemarked](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/8ad076682169363218b6b4374baa605d) Byggemarked  ](https://www.bilkatogo.dk/kategori/byggemarked/)[![Biludstyr](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80,h_80,c_pad/6603684cd00af10021b57af748976e68) Biludstyr  ](https://www.bilkatogo.dk/kategori/biludstyr/)
-[ Grøntsager ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/)
-  * [ Kartofler & rodfrugter ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/kartofler-og-rodfrugter/)
-  * [ Salat, kål & broccoli ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/salat-kaal-og-broccoli/)
-  * [ Agurker ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/agurker/)
-  * [ Løg & porrer ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/loeg-og-porrer/)
-  * [ Peberfrugt & chili ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/peberfrugt-og-chili/)
-  * [ Tomater ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/tomater/)
-  * [ Avocadoer ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/avocadoer/)
-  * [ Andet grønt ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/andet-groent/)
-  * [ Squash, auberginer & græskar ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/squash-auberginer-og-graeskar/)
-  * [ Svampe ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/svampe/)
-
-
-[ Frugt ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/)
-  * [ Bananer ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/bananer/)
-  * [ Citrusfrugter ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/citrusfrugter/)
-  * [ Æbler ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/aebler/)
-  * [ Stenfrugt & druer ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/stenfrugt-og-druer/)
-  * [ Bær ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/baer/)
-  * [ Eksotiske frugter ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/eksotiske-frugter/)
-  * [ Meloner ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/meloner/)
-  * [ Pærer ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/paerer/)
-  * [ Skåret frugt ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/skaaret-frugt/)
-
-
-[ Krydderurter ](https://www.bilkatogo.dk/kategori/frugt-og-groent/krydderurter/)
-[ Salat- & kålblandinger ](https://www.bilkatogo.dk/kategori/frugt-og-groent/salat-og-kaalblandinger/)
-### Din indkøbskurv
-Din indkøbskurv er tom. [Log ind](https://www.bilkatogo.dk/kategori/frugt-og-groent/#log-ind) for at se din gemte kurv. 
-Bilka Waves, Hundige 
-  * Total
-0,00 
-
-Køb nu 
-  * [Forside](https://www.bilkatogo.dk/)
-  * Frugt & grønt
-
-
-#  Frugt & grønt 
-[![Bilka Avisen](https://www.bilkatogo.dk/images/svg/loading.svg) Grøntsager ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/)
-[![Bilka Avisen](https://www.bilkatogo.dk/images/svg/loading.svg) Frugt ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/)
-[![Bilka Avisen](https://www.bilkatogo.dk/images/svg/loading.svg) Krydderurter ](https://www.bilkatogo.dk/kategori/frugt-og-groent/krydderurter/)
-[![Bilka Avisen](https://www.bilkatogo.dk/images/svg/loading.svg) Salat- & kålblandinger ](https://www.bilkatogo.dk/kategori/frugt-og-groent/salat-og-kaalblandinger/)
-[![Grøntsager](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80/b030d3b1-abf2-419c-ba24-2c362b967d67) Grøntsager ](https://www.bilkatogo.dk/kategori/frugt-og-groent/groentsager/ "Grøntsager")
-[![Frugt](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80/6250dd9f-e862-446f-b17c-4517f66f5d9c) Frugt ](https://www.bilkatogo.dk/kategori/frugt-og-groent/frugt/ "Frugt")
-[![Krydderurter](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80/1132e662-99c5-46d5-bf00-1d9cab3f02f5) Krydderurter ](https://www.bilkatogo.dk/kategori/frugt-og-groent/krydderurter/ "Krydderurter")
-[![Salat- & kålblandinger](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_80/ec9e57860d74ae992dd13918d36b0927) Salat- & kålblandinger ](https://www.bilkatogo.dk/kategori/frugt-og-groent/salat-og-kaalblandinger/ "Salat- & kålblandinger")
 ###### 297 varer
 ![Filter](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
 Indlæs foregående
@@ -652,10 +6,10 @@ Relevans
 Billigst 
 Laveste enhedspris 
 Økologisk  ()  ![Økomærket DK](https://www.bilkatogo.dk/_nuxt/img/b24636f.svg) ![Økomærket EU](https://www.bilkatogo.dk/_nuxt/img/d80e7bf.svg)
-Skarp pris  (26)  ![Skarp pris mærke](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
+Skarp pris  (27)  ![Skarp pris mærke](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
 I Bilka Avisen  (16)  ![Bilka Avis mærke](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
 Egenskaber  : **Alle**
-Skarp pris  (26) 
+Skarp pris  (27) 
 I Bilka Avisen  (16) 
 Europæisk  (248)  ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 Økomærket EU  (92)  ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -851,13 +205,6 @@ Kiwi
 **Italien** 1 stk 2,75/Stk.
 2,75 
 0
-[](https://www.bilkatogo.dk/produkt/stenfrie-groenne-druer/41701/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Stenfrie grønne druer](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/ca445d94-7512-4075-a158-d03d02c89d69)
-Stenfrie grønne druer
-**Sydafrika** 500 g 48,00/Kg.
-24,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-citroner-oeko/38740/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -865,6 +212,13 @@ Stenfrie grønne druer
 Citroner øko
 **Salling ØKO** 500 g 30,00/Kg.
 15,- 
+0
+[](https://www.bilkatogo.dk/produkt/stenfrie-groenne-druer/41701/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Stenfrie grønne druer](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/ca445d94-7512-4075-a158-d03d02c89d69)
+Stenfrie grønne druer
+**Sydafrika** 500 g 48,00/Kg.
+24,- 
 0
 [](https://www.bilkatogo.dk/produkt/avocadoer/18301/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -880,6 +234,12 @@ Grønne druer stenfri
 **Peru** 750 g 60,00/Kg.
 45,- 
 0
+[](https://www.bilkatogo.dk/produkt/driscolls-hindbaer/40837/)
+![Hindbær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/6d7d0e8a-ed92-4033-833b-b039aa224ce3)
+Hindbær
+**Driscoll's** 125 g 176,00/Kg.
+22,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-roed-snackpeber-oeko/40998/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -887,12 +247,6 @@ Grønne druer stenfri
 Rød snackpeber øko
 **Salling ØKO** 200 g 75,00/Kg.
 15,- 
-0
-[](https://www.bilkatogo.dk/produkt/driscolls-hindbaer/40837/)
-![Hindbær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/6d7d0e8a-ed92-4033-833b-b039aa224ce3)
-Hindbær
-**Driscoll's** 125 g 176,00/Kg.
-22,- 
 0
 [](https://www.bilkatogo.dk/produkt/blaabaer/18201/)
 ![Blåbær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/9c4f6316-520b-4626-9223-890ab9a227eb)
@@ -907,19 +261,19 @@ Blåbær
 **Italien** 8 stk 2,25/Stk.
 18,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-tomater-cocktailtomater/18185/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Cocktailtomater](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/c89139d6-848e-4ca8-993e-4a02d52dbf95)
-Cocktailtomater
-**Salling** Tomater 500 g 48,00/Kg.
-24,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-hvidloeg/70828/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Hvidløg](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/28b9c575-7079-4416-868a-0b959877d528)
 Hvidløg
 **Salling** 200 g 72,50/Kg.
 14,50 
+0
+[](https://www.bilkatogo.dk/produkt/salling-tomater-cocktailtomater/18185/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Cocktailtomater](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/c89139d6-848e-4ca8-993e-4a02d52dbf95)
+Cocktailtomater
+**Salling** Tomater 500 g 48,00/Kg.
+24,- 
 0
 [](https://www.bilkatogo.dk/produkt/pedersens-udvalgte-agurk-dansk-oeko/71728/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -937,6 +291,12 @@ Agurk dansk øko
 Spidskål øko
 **Salling ØKO** 1 stk 18,00/Stk.
 18,- 
+0
+[](https://www.bilkatogo.dk/produkt/blaabaer/71735/)
+![Blåbær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/15c8d6b4-8ad1-4042-aa06-2e8e757bb1ae)
+Blåbær
+**Marokko** 300 g 116,67/Kg.
+35,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-california-peberfrugter-oeko/41388/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -960,19 +320,19 @@ Blomkål
 **Holland** 1 stk 17,00/Stk.
 17,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-hvide-champignon/109707/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Hvide champignon](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1f64e35a8805145bd93ae13fefcac27a)
-Hvide champignon
-**Salling** 400 g 47,50/Kg.
-19,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-nemme-kartofler/131606/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Nemme kartofler](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/49647a0d05764338f2f2ce3517792df5)
 Nemme kartofler
 **Salling** 650 g 23,08/Kg.
 15,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-hvide-champignon/109707/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Hvide champignon](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1f64e35a8805145bd93ae13fefcac27a)
+Hvide champignon
+**Salling** 400 g 47,50/Kg.
+19,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-aebler-oeko/18163/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -982,21 +342,6 @@ Nemme kartofler
 **Salling ØKO** 6 stk 4,00/Stk.
 24,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-danske-salater-crispsalat/18452/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Crispsalat](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/36594c1c-1f25-4cc4-aa29-afaf65771488)
-Crispsalat
-**Salling** Danske Salater 1 stk 18,00/Stk.
-18,- 
-0
-[](https://www.bilkatogo.dk/produkt/tomater/18380/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Tomater](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/19cfa706-f41a-4f18-bad0-9db8191c55a2)
-Tomater
-**Spanien** 1 stk 2,75/Stk.
-2,75 
-0
 [](https://www.bilkatogo.dk/produkt/nye-kartofler/133969/)
 Se Her 
 Bilka avisen 
@@ -1005,6 +350,21 @@ Bilka avisen
 Nye kartofler
 **Egypten** 1 kg 15,00/Kg.
 15,- 
+0
+[](https://www.bilkatogo.dk/produkt/tomater/18380/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Tomater](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/19cfa706-f41a-4f18-bad0-9db8191c55a2)
+Tomater
+**Spanien** 1 stk 2,75/Stk.
+2,75 
+0
+[](https://www.bilkatogo.dk/produkt/salling-danske-salater-crispsalat/18452/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Crispsalat](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/36594c1c-1f25-4cc4-aa29-afaf65771488)
+Crispsalat
+**Salling** Danske Salater 1 stk 18,00/Stk.
+18,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-bagekartofler/18239/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1072,14 +432,6 @@ Mango
 **Elfenbenskysten** 1 stk 16,00/Stk.
 16,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-broccoli-oeko/40189/)
-![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Broccoli øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/117be452-04a2-42a9-8bdc-238ff0e45cd3)
-Broccoli øko
-**Salling ØKO** 1 stk 17,00/Stk.
-17,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-aebler-oeko-kl-ii/64851/)
 Se Her 
 Bilka avisen 
@@ -1089,6 +441,14 @@ Bilka avisen
 Æbler øko, kl. II
 **Salling ØKO** 1 kg 20,00/Kg.
 20,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-oeko-broccoli-oeko/40189/)
+![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Broccoli øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/117be452-04a2-42a9-8bdc-238ff0e45cd3)
+Broccoli øko
+**Salling ØKO** 1 stk 17,00/Stk.
+17,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-snackguleroedder/39764/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -1181,13 +541,6 @@ Skiveskåret champignon øko
 **Salling ØKO** 100 g 70,00/Kg.
 7,- 
 0
-[](https://www.bilkatogo.dk/produkt/pepperito-soed-roed-snackpeber-kernefri/88718/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Sød rød snackpeber kernefri](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1179563e-a471-4749-91bd-7dedf9df19b1)
-Sød rød snackpeber kernefri
-**Pepperito** 300 g 53,33/Kg.
-16,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-porrer-i-bundt/118798/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1204,13 +557,21 @@ Appelsiner
 **Egypten** 1 stk 5,50/Stk.
 5,50 
 0
+[](https://www.bilkatogo.dk/produkt/pepperito-soed-roed-snackpeber-kernefri/88718/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Sød rød snackpeber kernefri](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1179563e-a471-4749-91bd-7dedf9df19b1)
+Sød rød snackpeber kernefri
+**Pepperito** 300 g 53,33/Kg.
+16,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-spisemodne-avocadoer-oeko/55159/)
+Se Her 
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Spisemodne avocadoer øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/6ef9e3ab-da0e-4684-9a5d-3c69bfd3a26c)
 Spisemodne avocadoer øko
-**Salling Øko** 2 stk 15,00/Stk.
-30,- 
+**Salling Øko** 2 stk 12,50/Stk.
+25,- 
 0
 [](https://www.bilkatogo.dk/produkt/roed-spidskaal/77453/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1218,6 +579,15 @@ Spisemodne avocadoer øko
 Rød spidskål
 **Portugal** 1 stk 18,00/Stk.
 18,- 
+0
+[](https://www.bilkatogo.dk/produkt/driscolls-brombaer/18202/)
+Skarp pris 
+10,00 
+10.- 
+![Brombær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/e036d83f-8f21-42bd-9f60-cc7711055490)
+Brombær
+**Driscoll's** 125 g 80,00/Kg.
+10,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-nu-ready-to-serve-helbladet-skyllet-spinat/50985/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -1234,15 +604,6 @@ Helbladet skyllet spinat
 Ingefær øko
 **Salling ØKO** 200 g 70,00/Kg.
 14,- 
-0
-[](https://www.bilkatogo.dk/produkt/driscolls-brombaer/18202/)
-Skarp pris 
-10,00 
-10.- 
-![Brombær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/e036d83f-8f21-42bd-9f60-cc7711055490)
-Brombær
-**Driscoll's** 125 g 80,00/Kg.
-10,- 
 0
 [](https://www.bilkatogo.dk/produkt/mango/75699/)
 ![Mango](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/9b493904-72df-464a-94bb-99496fbb847c)
@@ -1306,13 +667,12 @@ Grønne asparges
 **Spanien** 400 g 70,00/Kg.
 28,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-icebergsalat-oeko/39936/)
-![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
+[](https://www.bilkatogo.dk/produkt/aerter/75386/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Icebergsalat øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/62876c35-8f47-4ca0-ae88-1df4c4b61214)
-Icebergsalat øko
-**Salling ØKO** 1 stk 15,00/Stk.
-15,- 
+![Ærter](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/fb7b34c21821d1046af9d3f28afb0aea)
+Ærter
+**Italien** 450 g 55,56/Kg.
+25,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-nu-revet-guleroedder-oeko/126120/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -1322,12 +682,13 @@ Revet gulerødder øko
 **Salling NU** 325 g 36,92/Kg.
 12,- 
 0
-[](https://www.bilkatogo.dk/produkt/aerter/75386/)
+[](https://www.bilkatogo.dk/produkt/salling-oeko-icebergsalat-oeko/39936/)
+![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Ærter](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/fb7b34c21821d1046af9d3f28afb0aea)
-Ærter
-**Italien** 450 g 55,56/Kg.
-25,- 
+![Icebergsalat øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/62876c35-8f47-4ca0-ae88-1df4c4b61214)
+Icebergsalat øko
+**Salling ØKO** 1 stk 15,00/Stk.
+15,- 
 0
 [](https://www.bilkatogo.dk/produkt/peberfrugt-orange/18582/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1351,6 +712,15 @@ Dild
 **Danmark** 1 stk 9,00/Stk.
 9,- 
 0
+[](https://www.bilkatogo.dk/produkt/salling-oeko-hjertesalat-oeko/38949/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Hjertesalat øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/795a7cfa-0b16-4106-9a77-ee90ba28dc1e)
+Hjertesalat øko
+**Salling ØKO** 2 stk 7,50/Stk.
+15,- 
+0
 [](https://www.bilkatogo.dk/produkt/limefrugter/18374/)
 ![Limefrugter](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/d762474f-15a1-4dd0-958d-aa7762507339)
 Limefrugter
@@ -1372,14 +742,12 @@ Squash XXL
 **Spanien** 750 g 24,00/Kg.
 18,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-hjertesalat-oeko/38949/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
+[](https://www.bilkatogo.dk/produkt/salling-nu-snittet-og-skyllet-basissalat/37944/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Hjertesalat øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/795a7cfa-0b16-4106-9a77-ee90ba28dc1e)
-Hjertesalat øko
-**Salling ØKO** 2 stk 7,50/Stk.
-15,- 
+![Snittet og skyllet basissalat](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/a2ba625d-55e0-4687-816a-c83293e782ac)
+Snittet og skyllet basissalat
+**Salling NU** 200 g 50,00/Kg.
+10,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-soede-kartofler-oeko/18598/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -1388,13 +756,6 @@ Søde kartofler øko
 **Salling ØKO** 500 g 40,00/Kg.
 20,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-nu-snittet-og-skyllet-basissalat/37944/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Snittet og skyllet basissalat](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/a2ba625d-55e0-4687-816a-c83293e782ac)
-Snittet og skyllet basissalat
-**Salling NU** 200 g 50,00/Kg.
-10,- 
-0
 [](https://www.bilkatogo.dk/produkt/cherry-blommetomater-mix/117726/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Cherry blommetomater mix](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/0b7678d75f91d8f342c11d2bb98ee471)
@@ -1402,12 +763,12 @@ Cherry blommetomater mix
 **Marokko** 300 g 66,67/Kg.
 20,- 
 0
-[](https://www.bilkatogo.dk/produkt/limochef-citronsaft/18528/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Citronsaft](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/77574966f555fec51996745f590e43af)
-Citronsaft
-**Limochef** 200 ml 24,75/L.
-4,95 
+[](https://www.bilkatogo.dk/produkt/jordbaer/38524/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Jordbær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/cd35e917-385b-462f-a323-5a3e6f5047fa)
+Jordbær
+**Danmark** 350 g 100,00/Kg.
+35,- 
 0
 [](https://www.bilkatogo.dk/produkt/pedersens-udvalgte-cherrytomater-oeko/122617/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -1417,6 +778,13 @@ Citronsaft
 Cherrytomater øko
 **Pedersens Udvalgte** 200 g 85,00/Kg.
 17,- 
+0
+[](https://www.bilkatogo.dk/produkt/limochef-citronsaft/18528/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Citronsaft](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/77574966f555fec51996745f590e43af)
+Citronsaft
+**Limochef** 200 ml 24,75/L.
+4,95 
 0
 [](https://www.bilkatogo.dk/produkt/peberfrugter-gule/18353/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1432,14 +800,6 @@ Tomater, Intensity
 **Princip** 250 g 112,00/Kg.
 28,- 
 0
-[](https://www.bilkatogo.dk/produkt/passionsfrugt/18527/)
-Mix 5 for 
-20.- 
-![Passionsfrugt](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/d43fcdf4-9bcd-4df8-a278-95a2de057c6f)
-Passionsfrugt
-**Colombia/Sydafrika/Z...** 1 stk 5,00/Stk.
-5,- 
-0
 [](https://www.bilkatogo.dk/produkt/aubergine/29449/)
 Skarp pris 
 8,00 
@@ -1454,6 +814,14 @@ Aubergine
 Pris gældende 30/05 - 13/06 
 8,- 
 0
+[](https://www.bilkatogo.dk/produkt/passionsfrugt/18527/)
+Mix 5 for 
+20.- 
+![Passionsfrugt](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/d43fcdf4-9bcd-4df8-a278-95a2de057c6f)
+Passionsfrugt
+**Colombia/Sydafrika/Z...** 1 stk 5,00/Stk.
+5,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-blaabaer-oeko/42519/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1461,13 +829,6 @@ Pris gældende 30/05 - 13/06
 Blåbær øko
 **Salling ØKO** 125 g 176,00/Kg.
 22,- 
-0
-[](https://www.bilkatogo.dk/produkt/jordbaer/38524/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Jordbær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/cd35e917-385b-462f-a323-5a3e6f5047fa)
-Jordbær
-**Danmark** 350 g 100,00/Kg.
-35,- 
 0
 [](https://www.bilkatogo.dk/produkt/avocado/37934/)
 ![Avocado](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/6fb26318-95f6-4ad0-a613-da25cfa7229d)
@@ -1484,6 +845,14 @@ Koriander øko
 **Salling ØKO** 1 stk 15,00/Stk.
 15,- 
 0
+[](https://www.bilkatogo.dk/produkt/pedersens-udvalgte-runde-tomater/84559/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Runde tomater](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/fb832820-c18f-445b-b7c3-d71e6028457d)
+Runde tomater
+**Pedersens Udvalgte** 500 g 40,00/Kg.
+20,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-skyllet-spinat-oeko/77895/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1491,6 +860,14 @@ Koriander øko
 Skyllet spinat øko
 **Salling ØKO** 200 g 120,00/Kg.
 24,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-oeko-skyllet-feldsalat-oeko/61059/)
+![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Skyllet feldsalat øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/e7350922-5a74-4cc0-bc55-be025d351879)
+Skyllet feldsalat øko
+**Salling ØKO** 75 g 226,67/Kg.
+17,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-nu-granataeblekerner/62353/)
 Mix 3 for 
@@ -1501,14 +878,6 @@ Granatæblekerner
 **Salling NU** 80 g 200,00/Kg.
 16,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-skyllet-feldsalat-oeko/61059/)
-![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Skyllet feldsalat øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/e7350922-5a74-4cc0-bc55-be025d351879)
-Skyllet feldsalat øko
-**Salling ØKO** 75 g 226,67/Kg.
-17,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-snackguleroedder/71734/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1516,21 +885,6 @@ Skyllet feldsalat øko
 Snackgulerødder
 **Salling** 500 g 30,00/Kg.
 15,- 
-0
-[](https://www.bilkatogo.dk/produkt/pedersens-udvalgte-runde-tomater/84559/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Runde tomater](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/fb832820-c18f-445b-b7c3-d71e6028457d)
-Runde tomater
-**Pedersens Udvalgte** 500 g 40,00/Kg.
-20,- 
-0
-[](https://www.bilkatogo.dk/produkt/bimi-aspargesbroccoli/77452/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Bimi Aspargesbroccoli](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/c9cbfa24-52a3-411a-b5e2-912b73324f4d)
-Bimi Aspargesbroccoli
-**Spanien** 200 g 110,00/Kg.
-22,- 
 0
 [](https://www.bilkatogo.dk/produkt/radiser-m-top-i-bundt/18355/)
 Skarp pris 
@@ -1542,6 +896,13 @@ Bilka avisen
 Radiser m. top i bundt
 **Holland** 1 stk 5,00/Stk.
 5,- 
+0
+[](https://www.bilkatogo.dk/produkt/bimi-aspargesbroccoli/77452/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Bimi Aspargesbroccoli](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/c9cbfa24-52a3-411a-b5e2-912b73324f4d)
+Bimi Aspargesbroccoli
+**Spanien** 200 g 110,00/Kg.
+22,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-brune-champignon/104417/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1604,12 +965,30 @@ Bredbladet persille øko, afskåret
 **Tyskland** 1 kg 12,00/Kg.
 12,- 
 0
+[](https://www.bilkatogo.dk/produkt/princip-nektariner/18196/)
+Skarp pris 
+25,00 
+25.- 
+Bilka avisen 
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Nektariner](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/dbe30dd610505f51d68db27a6eb3f903)
+Nektariner
+**Princip** 6 stk 4,17/Stk.
+25,- 
+0
 [](https://www.bilkatogo.dk/produkt/tomater-snack/117926/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Tomater snack](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/991b1ef847651d1f95d1ed5e88885255)
 Tomater snack
 **Marokko** 200 g 65,00/Kg.
 13,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-peberfrugter/18277/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Peberfrugter](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/d9966c75-93a6-4424-b584-c9e50a8d996b)
+Peberfrugter
+**Salling** 500 g 40,00/Kg.
+20,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-skyllet-rucola-oeko/86036/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -1625,20 +1004,6 @@ Hvidløg
 **Kina** 250 g 88,00/Kg.
 22,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-peberfrugter/18277/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Peberfrugter](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/d9966c75-93a6-4424-b584-c9e50a8d996b)
-Peberfrugter
-**Salling** 500 g 40,00/Kg.
-20,- 
-0
-[](https://www.bilkatogo.dk/produkt/salling-chili-roed-chili/18468/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Rød chili](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/ab463251-1451-4b04-82bc-a3a0fcc4ad33)
-Rød chili
-**Salling** Chili 70 g 200,00/Kg.
-14,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-aebler/18188/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1647,12 +1012,12 @@ Rød chili
 **Salling** 1.5 kg 16,00/Kg.
 24,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-soede-kartofler/69485/)
+[](https://www.bilkatogo.dk/produkt/salling-chili-roed-chili/18468/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Søde kartofler](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/5a6845a93cbb437f0b4a007abae3f89d)
-Søde kartofler
-**Salling** 1 kg 25,00/Kg.
-25,- 
+![Rød chili](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/ab463251-1451-4b04-82bc-a3a0fcc4ad33)
+Rød chili
+**Salling** Chili 70 g 200,00/Kg.
+14,- 
 0
 [](https://www.bilkatogo.dk/produkt/pedersens-udvalgte-ida-tomater/82419/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -1662,16 +1027,18 @@ Ida tomater
 **Pedersens Udvalgte** 200 g 140,00/Kg.
 28,- 
 0
-[](https://www.bilkatogo.dk/produkt/princip-nektariner/18196/)
-Skarp pris 
-25,00 
-25.- 
-Bilka avisen 
+[](https://www.bilkatogo.dk/produkt/salling-soede-kartofler/69485/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Nektariner](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/dbe30dd610505f51d68db27a6eb3f903)
-Nektariner
-**Princip** 6 stk 4,17/Stk.
+![Søde kartofler](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/5a6845a93cbb437f0b4a007abae3f89d)
+Søde kartofler
+**Salling** 1 kg 25,00/Kg.
 25,- 
+0
+[](https://www.bilkatogo.dk/produkt/dadler/125940/)
+![Dadler](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1b9577056f1876bed060234a7b07de78)
+Dadler
+**Iran** 400 g 50,00/Kg.
+20,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-porrer-bundt-oeko/66462/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -1680,12 +1047,6 @@ Nektariner
 Porrer, bundt øko
 **Salling Øko** 2 stk 9,00/Stk.
 18,- 
-0
-[](https://www.bilkatogo.dk/produkt/dadler/125940/)
-![Dadler](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1b9577056f1876bed060234a7b07de78)
-Dadler
-**Iran** 400 g 50,00/Kg.
-20,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-nu-snittet-og-skyllet-gourmet-salatblanding/58802/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1711,13 +1072,6 @@ Mynte øko
 **Salling ØKO** 1 stk 15,00/Stk.
 15,- 
 0
-[](https://www.bilkatogo.dk/produkt/koriander-afskaaret/51605/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Koriander, Afskåret](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/96083e3e-0a71-4a93-a466-35f3f3406344)
-Koriander, Afskåret
-**Spanien** 20 g 850,00/Kg.
-17,- 
-0
 [](https://www.bilkatogo.dk/produkt/pedersens-udvalgte-runde-tomater-oeko/82483/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -1726,6 +1080,13 @@ Koriander, Afskåret
 Runde tomater øko
 **Pedersens Udvalgte** 400 g 50,00/Kg.
 20,- 
+0
+[](https://www.bilkatogo.dk/produkt/koriander-afskaaret/51605/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Koriander, Afskåret](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/96083e3e-0a71-4a93-a466-35f3f3406344)
+Koriander, Afskåret
+**Spanien** 20 g 850,00/Kg.
+17,- 
 0
 [](https://www.bilkatogo.dk/produkt/cherry-blommetomater/77471/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1838,6 +1199,13 @@ Persille øko
 **Salling ØKO** 1 stk 15,00/Stk.
 15,- 
 0
+[](https://www.bilkatogo.dk/produkt/salling-spinat/18446/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Spinat](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/84c7f1c8-f333-4f2b-8616-e9826ea4c05b)
+Spinat
+**Salling** 250 g 76,00/Kg.
+19,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-timian-oeko/18437/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
@@ -1846,13 +1214,6 @@ Persille øko
 Timian øko
 **Salling ØKO** 1 stk 15,00/Stk.
 15,- 
-0
-[](https://www.bilkatogo.dk/produkt/salling-spinat/18446/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Spinat](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/84c7f1c8-f333-4f2b-8616-e9826ea4c05b)
-Spinat
-**Salling** 250 g 76,00/Kg.
-19,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-limesaft-oeko/51193/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -1909,19 +1270,19 @@ Appelsiner
 **Spanien** 1.5 kg 14,67/Kg.
 22,- 
 0
-[](https://www.bilkatogo.dk/produkt/princip-tomater-allure/133284/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Tomater, Allure](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/a23d30aef8f77bc26f1b7bd9cded11d4)
-Tomater, Allure
-**Princip** 200 g 140,00/Kg.
-28,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-danske-salater-hovedsalat/50997/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Hovedsalat](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/d441c8b9-d8ca-4a69-9811-546aeb1b69ac)
 Hovedsalat
 **Salling** Danske Salater 1 stk 15,00/Stk.
 15,- 
+0
+[](https://www.bilkatogo.dk/produkt/princip-tomater-allure/133284/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Tomater, Allure](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/a23d30aef8f77bc26f1b7bd9cded11d4)
+Tomater, Allure
+**Princip** 200 g 140,00/Kg.
+28,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-fennikel-oeko/38044/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -1939,12 +1300,16 @@ Skyllet salatmix øko
 **Salling ØKO** Ready to Serve 75 g 226,67/Kg.
 17,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-nu-snittet-groenkaal/117871/)
+[](https://www.bilkatogo.dk/produkt/princip-ferskner/69452/)
+Skarp pris 
+25,00 
+25.- 
+Bilka avisen 
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Snittet grønkål](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/6d39e59af8edd0b88732c6bd35ba9341)
-Snittet grønkål
-**Salling NU** 150 g 86,67/Kg.
-13,- 
+![Ferskner](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1c6bdd046ba1335e6e9532f54b423967)
+Ferskner
+**Princip** 700 g 35,71/Kg.
+25,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-avocadoer-oeko/51631/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -1953,6 +1318,13 @@ Snittet grønkål
 Avocadoer øko
 **Salling ØKO** 600 g 50,00/Kg.
 30,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-nu-snittet-groenkaal/117871/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Snittet grønkål](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/6d39e59af8edd0b88732c6bd35ba9341)
+Snittet grønkål
+**Salling NU** 150 g 86,67/Kg.
+13,- 
 0
 [](https://www.bilkatogo.dk/produkt/carlsens-hoevlet-peberrod/66484/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -1977,17 +1349,6 @@ Løg øko
 Karse, stor bakke
 **Danmark** 1 stk 13,00/Stk.
 13,- 
-0
-[](https://www.bilkatogo.dk/produkt/princip-ferskner/69452/)
-Skarp pris 
-25,00 
-25.- 
-Bilka avisen 
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Ferskner](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1c6bdd046ba1335e6e9532f54b423967)
-Ferskner
-**Princip** 700 g 35,71/Kg.
-25,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-butternut-squash-oeko/39862/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -2033,13 +1394,12 @@ Bananskalotteløg
 **Holland** 500 g 40,00/Kg.
 20,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-gurkemejerod-oeko/38012/)
-![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
+[](https://www.bilkatogo.dk/produkt/donut-ferskner/55204/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Gurkemejerod øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/6afed81b-d8ab-40a2-abc6-5297a721f614)
-Gurkemejerod øko
-**Salling ØKO** 50 g 260,00/Kg.
-13,- 
+![Donut ferskner](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7acb7329-767b-4749-b422-f8cf517d58a5)
+Donut ferskner
+**Spanien** 500 g 44,00/Kg.
+22,- 
 0
 [](https://www.bilkatogo.dk/produkt/oeko-aebler-oeko-cosmic-crisp/153642/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -2049,12 +1409,21 @@ Gurkemejerod øko
 **Øko** 6 stk 4,67/Stk.
 28,- 
 0
-[](https://www.bilkatogo.dk/produkt/donut-ferskner/55204/)
+[](https://www.bilkatogo.dk/produkt/salling-oeko-gurkemejerod-oeko/38012/)
+![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Donut ferskner](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7acb7329-767b-4749-b422-f8cf517d58a5)
-Donut ferskner
-**Spanien** 500 g 44,00/Kg.
-22,- 
+![Gurkemejerod øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/6afed81b-d8ab-40a2-abc6-5297a721f614)
+Gurkemejerod øko
+**Salling ØKO** 50 g 260,00/Kg.
+13,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-oeko-kartofler-oeko/39150/)
+![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Kartofler øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/b60d7e96-cadb-47cf-938d-0539bed421e5)
+Kartofler øko
+**Salling ØKO** 1 kg 18,00/Kg.
+18,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-nu-wokblanding-asiatisk-inspireret/125875/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2063,13 +1432,12 @@ Wokblanding asiatisk inspireret
 **Salling NU** 250 g 60,00/Kg.
 15,- 
 0
-[](https://www.bilkatogo.dk/produkt/oeko-aerteskud-oeko/110733/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
+[](https://www.bilkatogo.dk/produkt/salling-oeko-babykartofler-oeko/57385/)
+![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Ærteskud øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/781f17fc-3d98-4b19-91fb-9af03e0b90aa)
-Ærteskud øko
-**Øko** 75 g 213,33/Kg.
+![Babykartofler øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/4c6c9377-05b4-429b-81e3-cb3a599df8b1)
+Babykartofler øko
+**Salling ØKO** 650 g 24,62/Kg.
 16,- 
 0
 [](https://www.bilkatogo.dk/produkt/vores-danske-salater-bataviasalat/18453/)
@@ -2080,12 +1448,13 @@ Bataviasalat
 **Vores** Danske Salater 1 stk 18,00/Stk.
 18,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-babykartofler-oeko/57385/)
-![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
+[](https://www.bilkatogo.dk/produkt/oeko-aerteskud-oeko/110733/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Babykartofler øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/4c6c9377-05b4-429b-81e3-cb3a599df8b1)
-Babykartofler øko
-**Salling ØKO** 650 g 24,62/Kg.
+![Ærteskud øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/781f17fc-3d98-4b19-91fb-9af03e0b90aa)
+Ærteskud øko
+**Øko** 75 g 213,33/Kg.
 16,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-groenne-asparges-oeko/69486/)
@@ -2103,6 +1472,14 @@ Tapas Padron Peber
 **Spanien** 200 g 75,00/Kg.
 15,- 
 0
+[](https://www.bilkatogo.dk/produkt/nye-danske-kartofler/76551/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Nye danske kartofler](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/f4509281-f2f1-4ae3-ae7a-283f7d1f1edd)
+Nye danske kartofler
+**Danmark** 650 g 30,77/Kg.
+20,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-nu-snittet-og-skyllet-kaalblanding/37970/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2116,14 +1493,6 @@ Snittet og skyllet kålblanding
 Ananaskirsebær
 **Colombia** 125 g 144,00/Kg.
 18,- 
-0
-[](https://www.bilkatogo.dk/produkt/nordic-harvest-timian-afskaaret/115238/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Timian, afskåret](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/f76dfe830c6625c20e5a9decb9caceea)
-Timian, afskåret
-**Nordic Harvest** 20 g 850,00/Kg.
-17,- 
 0
 [](https://www.bilkatogo.dk/produkt/kinakaal/42557/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -2139,6 +1508,14 @@ Rosenkål
 **Marokko** 350 g 45,71/Kg.
 16,- 
 0
+[](https://www.bilkatogo.dk/produkt/nordic-harvest-timian-afskaaret/115238/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Timian, afskåret](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/f76dfe830c6625c20e5a9decb9caceea)
+Timian, afskåret
+**Nordic Harvest** 20 g 850,00/Kg.
+17,- 
+0
 [](https://www.bilkatogo.dk/produkt/pedersens-udvalgte-august-tomater-oeko/84826/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
@@ -2146,14 +1523,6 @@ Rosenkål
 ![August tomater øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/92d9c07d-3c9a-4667-8459-9f93bc6a751d)
 August tomater øko
 **Pedersens Udvalgte** 250 g 112,00/Kg.
-28,- 
-0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-hokkaido-graeskar-oeko/18612/)
-![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Hokkaido græskar øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/87ac6af2-dd36-49ab-8fb3-795c0c60e972)
-Hokkaido græskar øko
-**Salling ØKO** 1 stk 28,00/Stk.
 28,- 
 0
 [](https://www.bilkatogo.dk/produkt/oeko-spirer-gourmet-mix-oeko/128901/)
@@ -2165,20 +1534,20 @@ Spirer gourmet mix øko
 **Øko** 70 g 214,29/Kg.
 15,- 
 0
+[](https://www.bilkatogo.dk/produkt/salling-oeko-hokkaido-graeskar-oeko/18612/)
+![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Hokkaido græskar øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/87ac6af2-dd36-49ab-8fb3-795c0c60e972)
+Hokkaido græskar øko
+**Salling ØKO** 1 stk 28,00/Stk.
+28,- 
+0
 [](https://www.bilkatogo.dk/produkt/estragon-afskaaret/51607/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Estragon, Afskåret](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7cfcb4ca-2287-4804-a5fd-8d9556963169)
 Estragon, Afskåret
 **Kenya** 20 g 850,00/Kg.
 17,- 
-0
-[](https://www.bilkatogo.dk/produkt/nye-danske-kartofler/76551/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Nye danske kartofler](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/f4509281-f2f1-4ae3-ae7a-283f7d1f1edd)
-Nye danske kartofler
-**Danmark** 650 g 30,77/Kg.
-20,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-portobello-svampe-oeko/38212/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -2189,19 +1558,19 @@ Portobello svampe øko
 **Salling ØKO** 250 g 80,00/Kg.
 20,- 
 0
-[](https://www.bilkatogo.dk/produkt/rosmarin-afskaaret/56398/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Rosmarin, Afskåret](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/a5963fa8-5b0c-4ea7-b853-12277bc445b9)
-Rosmarin, Afskåret
-**Italien** 20 g 850,00/Kg.
-17,- 
-0
 [](https://www.bilkatogo.dk/produkt/romainesalat/18490/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Romainesalat](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/568223977f9a0029f67b1322e66045e7)
 Romainesalat
 **Danmark** 1 stk 15,00/Stk.
 15,- 
+0
+[](https://www.bilkatogo.dk/produkt/rosmarin-afskaaret/56398/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Rosmarin, Afskåret](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/a5963fa8-5b0c-4ea7-b853-12277bc445b9)
+Rosmarin, Afskåret
+**Italien** 20 g 850,00/Kg.
+17,- 
 0
 [](https://www.bilkatogo.dk/produkt/dild-afskaaret/51609/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2225,13 +1594,6 @@ Babymajs
 **Prima Frugt** 125 g 120,00/Kg.
 15,- 
 0
-[](https://www.bilkatogo.dk/produkt/radiser-mix/148100/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Radiser mix](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/596b31969bba40894116cf77051efadc)
-Radiser mix
-**Holland** 250 g 60,00/Kg.
-15,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-nu-snittet-salatblanding-m-majs-og-radise/53541/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Snittet salatblanding m. majs og radise](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/c5c43257-7a9e-412d-8190-b51c20a98ce2)
@@ -2239,23 +1601,12 @@ Snittet salatblanding m. majs og radise
 **Salling NU** 300 g 83,33/Kg.
 25,- 
 0
-[](https://www.bilkatogo.dk/produkt/carlsens-finthakket-ingefaer-oeko/117927/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
+[](https://www.bilkatogo.dk/produkt/radiser-mix/148100/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Finthakket ingefær øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7fa1ba9b402f6d9de38bcdebee9ee1bc)
-Finthakket ingefær øko
-**Carlsens** 60 g 200,00/Kg.
-12,- 
-0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-hvide-champignon-oeko/18611/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Hvide champignon øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/81eaacad-799c-4316-9868-8f5822f65370)
-Hvide champignon øko
-**Salling ØKO** 200 g 85,00/Kg.
-17,- 
+![Radiser mix](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/596b31969bba40894116cf77051efadc)
+Radiser mix
+**Holland** 250 g 60,00/Kg.
+15,- 
 0
 [](https://www.bilkatogo.dk/produkt/rabarber-i-bundt/69109/)
 Skarp pris 
@@ -2269,6 +1620,15 @@ Rabarber i bundt
 **Danmark** 500 g 30,00/Kg.
 15,- 
 0
+[](https://www.bilkatogo.dk/produkt/carlsens-finthakket-ingefaer-oeko/117927/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Finthakket ingefær øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7fa1ba9b402f6d9de38bcdebee9ee1bc)
+Finthakket ingefær øko
+**Carlsens** 60 g 200,00/Kg.
+12,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-coleslaw-oeko/80573/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2276,6 +1636,24 @@ Rabarber i bundt
 Coleslaw øko
 **Salling ØKO** 350 g 74,29/Kg.
 26,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-oeko-hvide-champignon-oeko/18611/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Hvide champignon øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/81eaacad-799c-4316-9868-8f5822f65370)
+Hvide champignon øko
+**Salling ØKO** 200 g 85,00/Kg.
+17,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-oeko-basilikum-oeko/112476/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Basilikum øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/aa73d058-5f13-4e21-894a-952721543b45)
+Basilikum øko
+**Salling ØKO** 1 stk 25,00/Stk.
+25,- 
 0
 [](https://www.bilkatogo.dk/produkt/vandmelon-i-skiver/77501/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2292,21 +1670,19 @@ Rød chili øko
 **Salling ØKO** 70 g 228,57/Kg.
 16,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-basilikum-oeko/112476/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Basilikum øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/aa73d058-5f13-4e21-894a-952721543b45)
-Basilikum øko
-**Salling ØKO** 1 stk 25,00/Stk.
-25,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-nu-nordisk-inspireret-coleslaw/79486/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Nordisk inspireret coleslaw](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/a75ac8ff-2e01-4117-bddc-56b16dfa2a22)
 Nordisk inspireret coleslaw
 **Salling NU** 350 g 80,00/Kg.
 28,- 
+0
+[](https://www.bilkatogo.dk/produkt/princip-hvide-asparges/135064/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Hvide asparges](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/a9aefb6959f0de668ebe6ab851d7ded0)
+Hvide asparges
+**Princip** 400 g 112,50/Kg.
+45,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-broendkarse-oeko/38304/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -2317,6 +1693,13 @@ Brøndkarse øko
 **Salling ØKO** 1 stk 15,00/Stk.
 15,- 
 0
+[](https://www.bilkatogo.dk/produkt/salling-nu-snittet-og-skyllet-salatblanding-m-spidskaal-og-gulerod/70109/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Snittet og skyllet salatblanding m. spidskål og gulerod](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/5af1a42c-87d2-4090-b00e-6251c6762037)
+Snittet og skyllet salatblanding m. spidskål og gulerod
+**Salling NU** 200 g 100,00/Kg.
+20,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-groentsager-lamuyo-peber/18218/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Lamuyo peber](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/ef8cd875-b28f-48df-bd1d-6dc36cd92c54)
@@ -2324,12 +1707,11 @@ Lamuyo peber
 **Salling** Grøntsager 2 stk 15,00/Stk.
 30,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-nu-snittet-og-skyllet-salatblanding-m-spidskaal-og-gulerod/70109/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Snittet og skyllet salatblanding m. spidskål og gulerod](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/5af1a42c-87d2-4090-b00e-6251c6762037)
-Snittet og skyllet salatblanding m. spidskål og gulerod
-**Salling NU** 200 g 100,00/Kg.
-20,- 
+[](https://www.bilkatogo.dk/produkt/kokosnoedder/70334/)
+![Kokosnødder](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/950446be-cdc4-4e65-a8e3-fe71624e0189)
+Kokosnødder
+**Elfenbenskysten** 1 stk 10,00/Stk.
+10,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-svampemix-oeko/18390/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -2339,19 +1721,6 @@ Snittet og skyllet salatblanding m. spidskål og gulerod
 Svampemix øko
 **Salling ØKO** 150 g 166,67/Kg.
 25,- 
-0
-[](https://www.bilkatogo.dk/produkt/princip-hvide-asparges/135064/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Hvide asparges](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/a9aefb6959f0de668ebe6ab851d7ded0)
-Hvide asparges
-**Princip** 400 g 112,50/Kg.
-45,- 
-0
-[](https://www.bilkatogo.dk/produkt/kokosnoedder/70334/)
-![Kokosnødder](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/950446be-cdc4-4e65-a8e3-fe71624e0189)
-Kokosnødder
-**Elfenbenskysten** 1 stk 10,00/Stk.
-10,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-nu-snittet-groenkaal/41463/)
 ![Nøglehulsmærket](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/noeglehulsmaerket)
@@ -2391,15 +1760,6 @@ Megabowl m. kål og edamamebønner
 **Salling NU** 400 g 87,50/Kg.
 35,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-brune-champignon-oeko/38124/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Brune champignon øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/5f8383f0-62ff-40e9-b8cf-3bfe8684e488)
-Brune champignon øko
-**Salling ØKO** 200 g 92,50/Kg.
-18,50 
-0
 [](https://www.bilkatogo.dk/produkt/boeftomater-2-stk/156206/)
 Skarp pris 
 18,00 
@@ -2409,6 +1769,15 @@ Skarp pris
 Bøftomater 2 stk.
 2 stk 9,00/Stk.
 18,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-oeko-brune-champignon-oeko/38124/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Brune champignon øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/5f8383f0-62ff-40e9-b8cf-3bfe8684e488)
+Brune champignon øko
+**Salling ØKO** 200 g 92,50/Kg.
+18,50 
 0
 [](https://www.bilkatogo.dk/produkt/salling-oeko-dadler-medjoul-oeko/72007/)
 ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -2485,19 +1854,6 @@ Caesarsalat
 **Salling NU** 285 g 105,26/Kg.
 30,- 
 0
-[](https://www.bilkatogo.dk/produkt/sensation-ananaskirsebaer/18498/)
-![Ananaskirsebær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7eb83327-7cb4-40a3-987c-1cd85950719b)
-Ananaskirsebær
-**Sensation** 100 g 150,00/Kg.
-15,- 
-0
-[](https://www.bilkatogo.dk/produkt/ananas/135720/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Ananas](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7ae04dbc287383669c50aec2e5f50e6e)
-Ananas
-500 g 80,00/Kg.
-40,- 
-0
 [](https://www.bilkatogo.dk/produkt/pedersens-udvalgte-marmande-tomater/135062/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2518,6 +1874,19 @@ Bilka avisen
 Persille øko
 **Salling ØKO** 1 stk 20,00/Stk.
 20,- 
+0
+[](https://www.bilkatogo.dk/produkt/sensation-ananaskirsebaer/18498/)
+![Ananaskirsebær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7eb83327-7cb4-40a3-987c-1cd85950719b)
+Ananaskirsebær
+**Sensation** 100 g 150,00/Kg.
+15,- 
+0
+[](https://www.bilkatogo.dk/produkt/ananas/135720/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Ananas](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7ae04dbc287383669c50aec2e5f50e6e)
+Ananas
+500 g 80,00/Kg.
+40,- 
 0
 [](https://www.bilkatogo.dk/produkt/dadler-deglet-nour/121988/)
 ![Dadler Deglet Nour](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/6245cfb7f8b9ec0a23e3947a7d63701b)
@@ -2552,6 +1921,14 @@ Hverdagssalat m. endiviesalat
 **Salling NU** 125 g 96,00/Kg.
 12,- 
 0
+[](https://www.bilkatogo.dk/produkt/dadler-deglet-nour/122005/)
+Se Her 
+Bilka avisen 
+![Dadler, Deglet Nour](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/3468468d6287ee16310202b22dcfb3e6)
+Dadler, Deglet Nour
+**Tunesien** 160 g 62,50/Kg.
+10,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-nu-frugt-mix/82486/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Frugt mix](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/f233b6e60d758f23916b8c9e13774f41)
@@ -2565,14 +1942,6 @@ Frugt mix
 Blomkålssalat m. bulgur og ost
 **Salling NU** 300 g 93,33/Kg.
 28,- 
-0
-[](https://www.bilkatogo.dk/produkt/dadler-deglet-nour/122005/)
-Se Her 
-Bilka avisen 
-![Dadler, Deglet Nour](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/3468468d6287ee16310202b22dcfb3e6)
-Dadler, Deglet Nour
-**Tunesien** 160 g 62,50/Kg.
-10,- 
 0
 [](https://www.bilkatogo.dk/produkt/carlsens-kapers-oeko/70618/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -2592,18 +1961,18 @@ Citronmelisse øko
 **Salling ØKO** 1 stk 15,00/Stk.
 15,- 
 0
+[](https://www.bilkatogo.dk/produkt/dadler-medjoul/58230/)
+![Dadler Medjoul](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/96de6986-4f2f-4d70-b22d-b216ef37f43e)
+Dadler Medjoul
+**Israel** 1 kg 95,00/Kg.
+95,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-nu-quinoasalat-med-valnoedder-og-teriyakidressing/79464/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Quinoasalat med valnødder og teriyakidressing](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/0e12133e-ad80-4c6d-9252-583cb144f437)
 Quinoasalat med valnødder og teriyakidressing
 **Salling Nu** 300 g 100,00/Kg.
 30,- 
-0
-[](https://www.bilkatogo.dk/produkt/dadler-medjoul/58230/)
-![Dadler Medjoul](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/96de6986-4f2f-4d70-b22d-b216ef37f43e)
-Dadler Medjoul
-**Israel** 1 kg 95,00/Kg.
-95,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-nu-wokblanding-middelhavsinspireret/18420/)
 ![Nøglehulsmærket](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/noeglehulsmaerket)
@@ -2613,18 +1982,18 @@ Wokblanding middelhavsinspireret
 **Salling NU** 400 g 50,00/Kg.
 20,- 
 0
-[](https://www.bilkatogo.dk/produkt/chop-chop-pad-thai-meal-kit/144323/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Pad thai meal kit](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/56af332c2eeb80af4ecf6ae445c937a3)
-Pad thai meal kit
-**Chop Chop** 630 g 93,65/Kg.
-59,- 
-0
 [](https://www.bilkatogo.dk/produkt/chop-chop-teriyaki-nudler-meal-kit/144326/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Teriyaki nudler meal kit](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1507497675a89537692e2fe8c0a6e6a7)
 Teriyaki nudler meal kit
 **Chop Chop** 720 g 81,94/Kg.
+59,- 
+0
+[](https://www.bilkatogo.dk/produkt/chop-chop-pad-thai-meal-kit/144323/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Pad thai meal kit](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/56af332c2eeb80af4ecf6ae445c937a3)
+Pad thai meal kit
+**Chop Chop** 630 g 93,65/Kg.
 59,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-nu-hverdagssalat-m-endiviesalat/104413/)
@@ -2649,19 +2018,11 @@ Tørrede kantareller øko
 30 g 1.066,67/Kg.
 32,- 
 0
-[](https://www.bilkatogo.dk/produkt/papaya/89108/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Papaya](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/983d4a99-0483-4e65-9167-8b235fdf6591)
-Papaya
-**Spanien** 1 stk 28,00/Stk.
-28,- 
-0
-[](https://www.bilkatogo.dk/produkt/salling-rawit-chili/60783/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Rawit chili](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/ce2c6f45-3fbb-40fc-a75c-c562d2cf7d1f)
-Rawit chili
-**Salling** 25 g 640,00/Kg.
-16,- 
+[](https://www.bilkatogo.dk/produkt/grydeklare-kartofler/136364/)
+![Grydeklare kartofler](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/d8781996a9e26b0b4827282c19935210)
+Grydeklare kartofler
+700 g 25,71/Kg.
+18,- 
 0
 [](https://www.bilkatogo.dk/produkt/chop-chop-tikka-masala-meal-kit/144742/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2670,6 +2031,20 @@ Tikka Masala meal kit
 **Chop Chop** 1.49 kg 39,60/Kg.
 59,- 
 0
+[](https://www.bilkatogo.dk/produkt/salling-rawit-chili/60783/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Rawit chili](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/ce2c6f45-3fbb-40fc-a75c-c562d2cf7d1f)
+Rawit chili
+**Salling** 25 g 640,00/Kg.
+16,- 
+0
+[](https://www.bilkatogo.dk/produkt/papaya/89108/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Papaya](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/983d4a99-0483-4e65-9167-8b235fdf6591)
+Papaya
+**Spanien** 1 stk 28,00/Stk.
+28,- 
+0
 [](https://www.bilkatogo.dk/produkt/salling-nu-melon-mix/135721/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 ![Melon mix](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/c3b3458a8050c344754553dd330fc5d9)
@@ -2677,11 +2052,12 @@ Melon mix
 **Salling NU** 500 g 80,00/Kg.
 40,- 
 0
-[](https://www.bilkatogo.dk/produkt/grydeklare-kartofler/136364/)
-![Grydeklare kartofler](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/d8781996a9e26b0b4827282c19935210)
-Grydeklare kartofler
-700 g 25,71/Kg.
-18,- 
+[](https://www.bilkatogo.dk/produkt/megabowl-m-avocadodressing-og-tortillachips/70954/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Megabowl m. avocadodressing og tortillachips](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1ed335bb-7e9d-4225-b5e2-642b4d8fd342)
+Megabowl m. avocadodressing og tortillachips
+400 g 87,50/Kg.
+35,- 
 0
 [](https://www.bilkatogo.dk/produkt/carlsens-hel-peberrod/18506/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2689,13 +2065,6 @@ Grydeklare kartofler
 Hel peberrod
 **Carlsens** 1 stk 17,00/Stk.
 17,- 
-0
-[](https://www.bilkatogo.dk/produkt/megabowl-m-avocadodressing-og-tortillachips/70954/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Megabowl m. avocadodressing og tortillachips](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/1ed335bb-7e9d-4225-b5e2-642b4d8fd342)
-Megabowl m. avocadodressing og tortillachips
-400 g 87,50/Kg.
-35,- 
 0
 [](https://www.bilkatogo.dk/produkt/salling-salling-quadro-salatblanding/51574/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2710,6 +2079,13 @@ Quadro salatblanding
 Megabowl m. cherrytomat og pasta
 **Salling NU** Ready to Serve 400 g 87,50/Kg.
 35,- 
+0
+[](https://www.bilkatogo.dk/produkt/kartofler-mallorca/83649/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Kartofler Mallorca](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/4596bba3-8b15-4f1e-9204-cee77aac38c9)
+Kartofler Mallorca
+**Spanien** 900 g 20,00/Kg.
+18,- 
 0
 [](https://www.bilkatogo.dk/produkt/vores-salat-m-gulerod-majs-porre-og-peberfrugt/70111/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2726,13 +2102,6 @@ Tørrede Karl Johan svampe øko
 30 g 1.066,67/Kg.
 32,- 
 0
-[](https://www.bilkatogo.dk/produkt/kartofler-mallorca/83649/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Kartofler Mallorca](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/4596bba3-8b15-4f1e-9204-cee77aac38c9)
-Kartofler Mallorca
-**Spanien** 900 g 20,00/Kg.
-18,- 
-0
 [](https://www.bilkatogo.dk/produkt/toerrede-skovsvampe-oeko/51553/)
 ![Økomærket DK](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_dk)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2741,19 +2110,19 @@ Tørrede skovsvampe øko
 30 g 1.066,67/Kg.
 32,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-nu-salatbowl-m-cherrytomater-og-pasta/81363/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Salatbowl m. cherrytomater og pasta](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/4c6a9aca-9f42-40be-aa30-b3c9927ebca1)
-Salatbowl m. cherrytomater og pasta
-**Salling NU** 250 g 100,00/Kg.
-25,- 
-0
 [](https://www.bilkatogo.dk/produkt/salling-nu-grillsalat-m-ranch-dressing/85737/)
 ![Nøglehulsmærket](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/noeglehulsmaerket)
 ![Grillsalat m. ranch dressing](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/386b9966-ccf5-4b5d-b405-27de24336bab)
 Grillsalat m. ranch dressing
 **Salling NU** 280 g 100,00/Kg.
 28,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-nu-salatbowl-m-cherrytomater-og-pasta/81363/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Salatbowl m. cherrytomater og pasta](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/4c6a9aca-9f42-40be-aa30-b3c9927ebca1)
+Salatbowl m. cherrytomater og pasta
+**Salling NU** 250 g 100,00/Kg.
+25,- 
 0
 [](https://www.bilkatogo.dk/produkt/chop-chop-red-curry-meal-kit/144325/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2782,12 +2151,6 @@ Dadler
 **Green** Dates 600 g 33,33/Kg.
 20,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-nu-salatbowl-m-salatost-roedloeg-og-oliven/70110/)
-![Salatbowl m. salatost, rødløg og oliven](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/2be84449-47d4-4011-b30e-c0326c20827d)
-Salatbowl m. salatost, rødløg og oliven
-**Salling NU** 250 g 100,00/Kg.
-25,- 
-0
 [](https://www.bilkatogo.dk/produkt/hvide-champignon/162176/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2796,11 +2159,30 @@ Hvide champignon
 **Danmark** 250 g 60,00/Kg.
 15,- 
 0
+[](https://www.bilkatogo.dk/produkt/majs/18360/)
+![Majs](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7d3701c5-dd41-433f-bf6c-e34b55730a72)
+Majs
+**Marocco** 1 stk 9,00/Stk.
+9,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-nu-salatbowl-m-salatost-roedloeg-og-oliven/70110/)
+![Salatbowl m. salatost, rødløg og oliven](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/2be84449-47d4-4011-b30e-c0326c20827d)
+Salatbowl m. salatost, rødløg og oliven
+**Salling NU** 250 g 100,00/Kg.
+25,- 
+0
 [](https://www.bilkatogo.dk/produkt/hvidloeg-frisk/132520/)
 ![Hvidløg, frisk](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/4cffb830-b1f9-42b0-9a4f-1c3523514e1b)
 Hvidløg, frisk
 **Egypten** 1 stk 10,00/Stk.
 10,- 
+0
+[](https://www.bilkatogo.dk/produkt/meloner-groen-honningmelon/85001/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Grøn honningmelon](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/514f5312-7152-40c5-8171-e0120b1a12ed)
+Grøn honningmelon
+**Spanien** Meloner 1 stk 30,00/Stk.
+30,- 
 0
 [](https://www.bilkatogo.dk/produkt/chop-chop-nachos-meal-kit/144322/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2809,13 +2191,6 @@ Nachos meal kit
 **Chop Chop** 710 g 83,10/Kg.
 59,- 
 0
-[](https://www.bilkatogo.dk/produkt/cantaloupmelon-i-skiver/77496/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Cantaloupmelon i skiver](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/54e755c3bf85c86879384ac2455f8f11)
-Cantaloupmelon i skiver
-1 stk 20,00/Stk.
-20,- 
-0
 [](https://www.bilkatogo.dk/produkt/samsoe-kartofler/69870/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2823,6 +2198,13 @@ Cantaloupmelon i skiver
 Kartofler
 **Samsø** 1 kg 22,00/Kg.
 22,- 
+0
+[](https://www.bilkatogo.dk/produkt/cantaloupmelon-i-skiver/77496/)
+![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
+![Cantaloupmelon i skiver](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/54e755c3bf85c86879384ac2455f8f11)
+Cantaloupmelon i skiver
+1 stk 20,00/Stk.
+20,- 
 0
 [](https://www.bilkatogo.dk/produkt/grydeklare-danske-kartofler/62362/)
 ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
@@ -2838,6 +2220,14 @@ Bilka avisen
 Urtemix til tzatziki
 **Eu** 20 g 750,00/Kg.
 15,- 
+0
+[](https://www.bilkatogo.dk/produkt/snackguleroedder-oeko/133662/)
+![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
+![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
+![Snackgulerødder øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/518a19acc38cee862f50fb66b9bcecdc)
+Snackgulerødder øko
+**Danmark** 200 g 55,00/Kg.
+11,- 
 0
 [](https://www.bilkatogo.dk/produkt/urtemix-afskaaret/162278/)
 Se Her 
@@ -2855,52 +2245,17 @@ Urtemix til grill
 **Eu** 20 g 750,00/Kg.
 15,- 
 0
-[](https://www.bilkatogo.dk/produkt/salling-nu-spicy-coleslaw/70112/)
-![Spicy coleslaw](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/2b7692d6-3ee2-4a2c-8807-97d6660350be)
-Spicy coleslaw
-**Salling NU** 350 g 74,29/Kg.
-26,- 
-0
-[](https://www.bilkatogo.dk/produkt/meloner-groen-honningmelon/85001/)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Grøn honningmelon](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/514f5312-7152-40c5-8171-e0120b1a12ed)
-Grøn honningmelon
-**Spanien** Meloner 1 stk 30,00/Stk.
-30,- 
-0
-[](https://www.bilkatogo.dk/produkt/blaabaer/71735/)
-![Blåbær](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/15c8d6b4-8ad1-4042-aa06-2e8e757bb1ae)
-Blåbær
-**Marokko** 300 g 116,67/Kg.
-35,- 
-0
-[](https://www.bilkatogo.dk/produkt/salling-oeko-kartofler-oeko/39150/)
-![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
-![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
-![Kartofler øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/b60d7e96-cadb-47cf-938d-0539bed421e5)
-Kartofler øko
-**Salling ØKO** 1 kg 18,00/Kg.
-18,- 
-0
-[](https://www.bilkatogo.dk/produkt/majs/18360/)
-![Majs](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/7d3701c5-dd41-433f-bf6c-e34b55730a72)
-Majs
-**Marocco** 1 stk 9,00/Stk.
-9,- 
-0
-[](https://www.bilkatogo.dk/produkt/snackguleroedder-oeko/133662/)
-![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/dansk_flag)
-![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
-![Snackgulerødder øko](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/518a19acc38cee862f50fb66b9bcecdc)
-Snackgulerødder øko
-**Danmark** 200 g 55,00/Kg.
-11,- 
-0
 [](https://www.bilkatogo.dk/produkt/vandmelon-dumara/118814/)
 ![Vandmelon Dumara](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/58e040ce385a0a5b33ca4613aa2a5a16)
 Vandmelon Dumara
 **Italien** 1 stk 125,00/Stk.
 125,- 
+0
+[](https://www.bilkatogo.dk/produkt/salling-nu-spicy-coleslaw/70112/)
+![Spicy coleslaw](https://digitalassets.sallinggroup.com/image/upload/e_trim:2/e_sharpen:80,q_auto,f_auto,b_white,w_500,h_500,c_pad/2b7692d6-3ee2-4a2c-8807-97d6660350be)
+Spicy coleslaw
+**Salling NU** 350 g 74,29/Kg.
+26,- 
 0
 [](https://www.bilkatogo.dk/produkt/nektariner/69453/)
 ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
@@ -2940,7 +2295,7 @@ Relevans
 Billigst 
 Laveste enhedspris 
 Egenskaber 
-Skarp pris  (26)  ![Skarp pris mærke](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
+Skarp pris  (27)  ![Skarp pris mærke](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
 I Bilka Avisen  (16)  ![Bilka Avisen mærke](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
 Europæisk  (248)  ![Europæisk](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/euStarLabel)
 Økomærket EU  (92)  ![Økomærket EU](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/oekologisk_eu)
@@ -2949,71 +2304,3 @@ Dansk  (67)  ![Dansk](https://digitalassets.sallinggroup.com/image/upload/e_trim
 Nøglehulsmærket  (5)  ![Nøglehulsmærket](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/noeglehulsmaerket)
 Fairtrade  (1)  ![Fairtrade](https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,h_24/digital/product_certification_images/fairtrade)
 Vis 297 varer 
-## Grøntsager og frugt i sæson
-Vil du blive klogere på, hvilke grøntsager og frugter der er i sæson i løbet af året? Vi har lavet en flot oversigt over grøntsager og frugt, der er i sæson i de forskellige måneder. Klik dig ind på en måned og få inspiration til frugt og grøntsager, du kan bruge i din madlavning.
-[ Se oversigten her ](https://www.bilkatogo.dk/inspiration/viden-om/saeson/)
-## Frugt og grønt leveret direkte til din bil
-Hos BilkaToGo finder du altid et stort udvalg af frugt og grønt. Vi har den holdning at frugt og grønt skal have masser af smag. På den måde kan du nemlig nyde den gode smag i hver eneste bid, du tager. 
-Udvalget af færdigretter består af en kombination af enten frugt eller grøntsager, som du hurtigt kan spise, hvis du ønsker en nem snack, eller som du kan tage med på farten. Vores færdige salater er enten klar til at blive spist med det samme, klar til at blive serveret eller klar til at blive tilberedt. Det er en god idé at tjekke, om din salat er klar til at blive spist, eller om den lige skal skylles, inden du serverer den.
-Hos BilkaToGo tilpasser vi vores udvalg af frugt og grønt til sæsonen. Det betyder, at vores sortiment ændrer sig afhængig af, hvilken sæson det er. Det sikrer dig frugt og grønt i en god kvalitet. 
-## Økologisk frugt og grønt
-Hos BilkaToGo får du det samme store udvalg af økologisk frugt og grønt, som du allerede kender det fra vores Bilka varehuse. Den eneste forskel er bare, at her pakker vi dine varer for dig, så de er klar til dig. Faktisk leverer vi alle dine varer direkte til din bil.
-Vi sørger hele tiden for at udvide vores sortiment af økologisk frugt og grønt. Dermed kan du hos BilkaToGo nyde alle de danske klassikere samt et spændende sortiment af eksotisk frugt og grønt fra udlandet. Du kan være sikker på, at uanset, hvad du vælger, så er kvaliteten i top hos os.
-![Tilbage](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
-##  Verificer at du er mindst 18 år 
-close 
-![MitID](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
-#### Verificering
-Vi skal verificere din alder, med MitID, før du kan få lov til at købe varer med alderskrav
-#### Én gang på tværs af Salling Group
-Når vi har valideret din alder på din Salling Group profil, spørger vi dig ikke igen.
-Verificer din alder 
-![Tilbage](https://www.bilkatogo.dk/kategori/frugt-og-groent/)
-close 
-![100% Dansk](https://www.bilkatogo.dk/kategori/frugt-og-groent/) 100% Dansk
-Bilka er ejet af Salling Group og vores formål er at gøre hverdagen bedre - for vores kunder og i det samfund, vi er en del af. 
-![Kundeservice](https://www.bilkatogo.dk/kategori/frugt-og-groent/) Vi er klar til at hjælpe dig
-Vores venlige [kundeservice](https://support.bilkatogo.dk/hc/da#promoted-articles) vil så gerne høre fra dig, hvis der er det mindste vi kan hjælpe med. [Chat med os](https://support.bilkatogo.dk/hc/da#promoted-articles) eller ring til [ 89 30 30 00](tel:+45 89 30 30 00). 
-### Brug for hjælp?
-  * [ Hvor kan jeg afhente mine varer? ](https://www.bilkatogo.dk/afhentning/)
-  * [ Sådan handler du på bilkatogo.dk ](https://support.bilkatogo.dk/hc/da/sections/115001425849-Bestilling)
-  * [ Hvordan foregår afhentningen? ](https://support.bilkatogo.dk/hc/da/sections/115001446585-Afhentning-af-varer)
-  * [ Returnering af varer ](https://support.bilkatogo.dk/hc/da/articles/115005792689-Hvordan-returnerer-jeg-)
-  * [ Ofte stillede spørgsmål ](https://support.bilkatogo.dk/hc/da#promoted-articles)
-  * [ Kontakt os ](https://support.bilkatogo.dk/hc/da/requests/new)
-
-
-### BilkaToGo
-  * [ Om BilkaToGo ](https://www.bilkatogo.dk/inspiration/om-bilka-togo)
-  * [ Fødevarestyrelsens smileyrapport ](https://www.findsmiley.dk/Sider/GroupSearch.aspx?Keyword=Bilka_e-handel)
-  * [ Salling Group tilbagekaldelser ](https://www.sallinggroup.com/tilbagekaldelser)
-
-
-### Bilka
-  * [ Varehusets åbningstider ](https://www.bilka.dk/kundeservice/find-din-bilka)
-  * [ Find Bilka ](https://www.bilka.dk/kundeservice/find-din-bilka)
-  * [ Bilka Avisen ](https://www.bilka.dk/bilkaavisen/)
-
-
-### Betingelser
-  * [ Erstatningspolitik ](https://support.bilkatogo.dk/hc/da/articles/115005072709-Hvordan-foretages-erstatning-af-udsolgte-varer-)
-  * [ Handelsbetingelser ](https://www.bilkatogo.dk/pdf/Handelsbetingelser_BilkaToGo_31032025.pdf)
-  * [ Privatlivspolitik ](https://sallinggroup.com/privatlivspolitik/)
-  * [ BilkaToGo Privatlivspolitik ](https://www.bilkatogo.dk/pdf/privatlivspolitik_for_bilkatogo_v.7.pdf)
-  * [ Info om varerne ](https://api.bilkatogo.dk/www/frontpage/infoomvaren?clean=true)
-  * [ Cookiepolitik ](https://www.bilkatogo.dk/cookies)
-
-
-### Kontakt
-  * [ Rosbjergvej 33, 8220 Brabrand ](https://www.google.dk/maps/search/Rosbjergvej 33, 8220 Brabrand)
-  * CVR 35 95 47 16 
-
-
-### Vi accepterer
-![Dankort](https://www.bilkatogo.dk/kategori/frugt-og-groent/) ![Visa](https://www.bilkatogo.dk/_nuxt/img/32885e6.svg) ![Mastercard](https://www.bilkatogo.dk/_nuxt/img/badc728.svg) ![Maestro](https://www.bilkatogo.dk/_nuxt/img/6972a45.svg) ![JCB](https://www.bilkatogo.dk/_nuxt/img/3fc7bd9.svg)
-### © Copyright 2017 - 2025 BilkaToGo
-##  Tøm kurv? 
-close 
-Du er ved at tømme hele din kurv, er du sikker? 
-Ja, tøm kurven 
-![](https://theme.zdassets.com/theme_assets/1325346/5223aa679b4798d79db4f2cdc782a472641a2bcf.svg)![](https://theme.zdassets.com/theme_assets/1325346/5223aa679b4798d79db4f2cdc782a472641a2bcf.svg)
