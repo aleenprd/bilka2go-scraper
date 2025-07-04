@@ -397,28 +397,37 @@ def parse_args():
         default="INFO",
         help="Set the logging level (default: INFO)",
     )
+    parser.add_argument(
+        "--category",
+        type=str,
+        choices=list(CATEGORIES_TRANSLATED.values()) + ["all"],
+        default="all",
+        help="Specify a category to scrape (default: all).",
+    )
     return parser.parse_args()
 
 
 def main():
     args = parse_args()
-    
+
     # Set up logging configuration
     logger.remove()  # Remove the default logger
-    logger.add(sys.stdout, level=args.log_level.upper(), format="{time} {level} {message}")
-    
+    logger.add(
+        sys.stdout, level=args.log_level.upper(), format="{time} {level} {message}"
+    )
+
     # Set up timezone and job run datetime
     timezone = pytz.timezone("Europe/Copenhagen")
     job_run_datetime = datetime.now(timezone)
     job_run_datetime = job_run_datetime.replace(tzinfo=None)
     job_run_datetime_str = job_run_datetime.strftime("%Y-%m-%dT%H:%M:%S")
-    
+
     # Connect to BigQuery
-    # project_id = os.getenv("GOOGLE_CLOUD_PROJECT_ID")
-    # dataset_name = os.getenv("GOOGLE_CLOUD_BIGQUERY_DATASET")
-    # bq_client = bigquery.Client(project=project_id)
-    # dataset_obj = bq_client.dataset(dataset_name)
-    
+    project_id = os.getenv("GOOGLE_CLOUD_PROJECT_ID")
+    dataset_name = os.getenv("GOOGLE_CLOUD_BIGQUERY_DATASET")
+    bq_client = bigquery.Client(project=project_id)
+    dataset_obj = bq_client.dataset(dataset_name)
+
     # Set up the browser configuration
     browser_config = BrowserConfig(
         browser_type="firefox",  # or "chromium" for Chrome
@@ -450,48 +459,61 @@ def main():
     )
 
     # Scrape each category
-    for category, translation in CATEGORIES_TRANSLATED.items():        
-        # logger.info(f"Processing category: {category} (translated: {translation})")
+    if args.category == "all":
+        categories_to_scrape = CATEGORIES_TRANSLATED
+    else:
+        categories_to_scrape = {
+            category: translation
+            for category, translation in CATEGORIES_TRANSLATED.items()
+            if translation == args.category
+        }
 
-        # # Create directory and filename for the scraped data
-        # logger.debug(f"Preparing directory and filename for category: {category} (translated: {translation})")
-        # dir = f"storage/{translation}/"
-        # filename = f"{dir}{translation}.json"
+    for category, translation in categories_to_scrape.items():
+        logger.info(f"Processing category: {category} (translated: {translation})")
 
-        # if not os.path.exists(dir):
-        #     os.makedirs(dir)
-            
-        # # Create BigQuery table if it doesn't exist
-        # table_name = translation.replace("-", "_")
-        # create_query = f"""
-        # CREATE OR REPLACE TABLE `{project_id}.{dataset_name}.{table_name}`
-        # (
-        #     TITLE STRING NOT NULL,
-        #     DESCRIPTION STRING,
-        #     PRICE STRING,
-        #     PRODUCT_ID STRING NOT NULL,
-        #     PRODUCT_URL STRING NOT NULL,
-        #     IMAGE_URL STRING,
-        #     PRODUCER STRING,
-        #     QUANTITY STRING,
-        #     PRICE_PER_UNIT STRING,
-        #     LABEL1 STRING,
-        #     LABEL2 STRING,
-        #     LABEL3 STRING,
-        #     CATEGORY_DK STRING NOT NULL,
-        #     CATEGORY_EN STRING NOT NULL,
-        #     JOB_RUN_DATETIME TIMESTAMP NOT NULL
-        # );
-        # """
-        # logger.info(f"Creating table for category: {category} (translated: {translation})")
-        # logger.info(f"Executing BigQuery create table query: {create_query}")
-        # query_job = bq_client.query(create_query)
-        # try:
-        #     # Wait for the query to complete
-        #     query_job.result()
-        #     logger.info(f"Table creation successful for {table_name}")
-        # except Exception as e:
-        #     raise Exception(f"Error creating table {table_name}: {e}")
+        # Create directory and filename for the scraped data
+        logger.debug(
+            f"Preparing directory and filename for category: {category} (translated: {translation})"
+        )
+        dir = f"storage/{translation}/"
+        filename = f"{dir}{translation}.json"
+
+        if not os.path.exists(dir):
+            os.makedirs(dir)
+
+        # Create BigQuery table if it doesn't exist
+        table_name = translation.replace("-", "_")
+        create_query = f"""
+        CREATE OR REPLACE TABLE `{project_id}.{dataset_name}.{table_name}`
+        (
+            TITLE STRING NOT NULL,
+            DESCRIPTION STRING,
+            PRICE STRING,
+            PRODUCT_ID STRING NOT NULL,
+            PRODUCT_URL STRING NOT NULL,
+            IMAGE_URL STRING,
+            PRODUCER STRING,
+            QUANTITY STRING,
+            PRICE_PER_UNIT STRING,
+            LABEL1 STRING,
+            LABEL2 STRING,
+            LABEL3 STRING,
+            CATEGORY_DK STRING NOT NULL,
+            CATEGORY_EN STRING NOT NULL,
+            JOB_RUN_DATETIME TIMESTAMP NOT NULL
+        );
+        """
+        logger.info(
+            f"Creating table for category: {category} (translated: {translation})"
+        )
+        logger.info(f"Executing BigQuery create table query: {create_query}")
+        query_job = bq_client.query(create_query)
+        try:
+            # Wait for the query to complete
+            query_job.result()
+            logger.info(f"Table creation successful for {table_name}")
+        except Exception as e:
+            raise Exception(f"Error creating table {table_name}: {e}")
 
         logger.debug(f"Scraping category: {category} (translated: {translation})")
         data = asyncio.run(
@@ -511,22 +533,24 @@ def main():
             item["category_dk"] = category
             item["category_en"] = translation
             item["job_run_datetime"] = job_run_datetime_str
-            
-        # logger.info(f"Writing the result content to '{filename}'...")
-        # with open(filename, "w", encoding="utf-8") as f:
-        #     json.dump(data, f, ensure_ascii=False, indent=4)
-            
-        # # Insert the data into Google BigQuery
-        # logger.info(f"Inserting data into Bigquery..")
-        # table_ref = dataset_obj.table(table_name)
-        # table_obj = bq_client.get_table(table_ref)
-        # errors = bq_client.insert_rows_json(table_obj, data)
-        
-        # if errors:
-        #     logger.error(f"Encountered errors while inserting rows: {errors}")
-        #     raise Exception(f"Failed to insert data for category {category}: {errors}")
-        # else:
-        #     logger.info(f"Successfully uploaded {len(data)} rows to BigQuery for category {category}")
+
+        logger.info(f"Writing the result content to '{filename}'...")
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
+
+        # Insert the data into Google BigQuery
+        logger.info(f"Inserting data into Bigquery..")
+        table_ref = dataset_obj.table(table_name)
+        table_obj = bq_client.get_table(table_ref)
+        errors = bq_client.insert_rows_json(table_obj, data)
+
+        if errors:
+            logger.error(f"Encountered errors while inserting rows: {errors}")
+            raise Exception(f"Failed to insert data for category {category}: {errors}")
+        else:
+            logger.info(
+                f"Successfully uploaded {len(data)} rows to BigQuery for category {category}"
+            )
 
 
 if __name__ == "__main__":
