@@ -5,6 +5,8 @@ async def main():
     async with AsyncWebCrawler() as crawler:
         result = await crawler.arun(
             url="https://www.nbcnews.com/business",
+            browser_config = BrowserConfig(
+                browser_type="firefox")
         )
         print(result.markdown)
 
