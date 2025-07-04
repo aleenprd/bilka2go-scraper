@@ -9,7 +9,7 @@ ENV SCRAPER_USER_HOME=/usr/local/${USR_NAME}
 
 # Install basics and configure locale
 RUN apt-get update && pip install uv
-# RUN apt-get update && apt install -y firefox-esr
+RUN apt-get update && apt install -y firefox-esr
 
 # Install Python dependencies
 COPY ./pyproject.toml /pyproject.toml
