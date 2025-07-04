@@ -9,13 +9,16 @@ ENV SCRAPER_USER_HOME=/usr/local/${USR_NAME}
 
 # Install basics and configure locale
 RUN apt-get update && pip install uv
+# RUN apt-get update && apt install -y firefox-esr
 
 # Install Python dependencies
 COPY ./pyproject.toml /pyproject.toml
 COPY ./uv.lock /uv.lock
 RUN uv export --no-hashes --format requirements-txt > requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
-RUN playwright install
+
+# Install Playwright and its dependencies
+RUN playwright install && playwright install-deps
 
 # Copy required files and folders
 COPY /src ${SCRAPER_USER_HOME}
