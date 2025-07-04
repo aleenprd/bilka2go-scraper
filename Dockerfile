@@ -1,4 +1,4 @@
-# Use an official Python runtime as a parent image
+# Use an official slim Python runtime as a parent image
 FROM python:3.12-slim
 
 # Environment variables
@@ -13,7 +13,8 @@ RUN apt-get update && pip install uv
 # Install Python dependencies
 COPY ./pyproject.toml /pyproject.toml
 COPY ./uv.lock /uv.lock
-RUN uv pip install
+RUN uv export --no-hashes --format requirements-txt > requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy required files and folders
 COPY /src ${SCRAPER_USER_HOME}
