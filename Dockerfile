@@ -15,6 +15,7 @@ COPY ./pyproject.toml /pyproject.toml
 COPY ./uv.lock /uv.lock
 RUN uv export --no-hashes --format requirements-txt > requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
+RUN playwright install
 
 # Copy required files and folders
 COPY /src ${SCRAPER_USER_HOME}
