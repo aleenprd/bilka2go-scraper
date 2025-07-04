@@ -14,6 +14,7 @@ src/storage/
 
 # Environment files
 .env
+src/.env 
 
-# Secrets
-key.json
+# Others
+*.log
