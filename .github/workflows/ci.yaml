@@ -51,12 +51,11 @@ jobs:
       - 
         id: authgcp
         name: Authenticate to Google Cloud
-        uses: google-github-actions/auth@v1
+        uses: google-github-actions/auth@v2
         with:
-          token_format: access_token
-          workload_identity_provider: ${{ secrets.WORKLOAD_IDENTITY_PROVIDER_RESOURCE_NAME }}
           service_account: ${{ secrets.SERVICE_ACCOUNT }}@${{ secrets.PROJECT_ID }}.iam.gserviceaccount.com
-          access_token_lifetime: 600s
+          credentials_json: '${{ secrets.SERVICE_ACCOUNT_KEY }}'
+
       - 
         name: Login to Artifact Registry
         uses: docker/login-action@v2
