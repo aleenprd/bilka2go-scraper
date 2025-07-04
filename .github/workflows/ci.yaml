@@ -71,4 +71,4 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ secrets.GAR_REGION }}-docker.pkg.dev/${{ secrets.PROJECT_ID }}/${{ secrets.GAR_REPO }}/${{ vars.APP_NAME }}:latest
+            ${{ secrets.GAR_REGION }}-docker.pkg.dev/${{ secrets.PROJECT_ID }}/${{ secrets.GAR_REPO }}/bilka2go-scraper:latest
