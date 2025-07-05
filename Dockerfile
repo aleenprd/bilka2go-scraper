@@ -31,8 +31,5 @@ RUN useradd -ms /bin/bash -d ${SCRAPER_USER_HOME} -g ${USR_GRPN} ${USR_NAME}
 # Set the actual working directory as src
 WORKDIR ${SCRAPER_USER_HOME}
 
-# Define the commands to initialize the application
-ENTRYPOINT ["/bin/sh", "entrypoint.sh"]
-
 # Finally execute the python script
 CMD ["python", "main.py"]
