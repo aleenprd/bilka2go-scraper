@@ -22,7 +22,6 @@ RUN playwright install && playwright install-deps
 
 # Copy required files and folders
 COPY /src ${SCRAPER_USER_HOME}
-COPY entrypoint.sh ${SCRAPER_USER_HOME}/entrypoint.sh
 
 # Create a non-root user in the 1024 group
 RUN addgroup --gid ${USR_GRPID} ${USR_GRPN}
