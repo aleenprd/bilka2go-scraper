@@ -1,32 +1,22 @@
-import requests
+import asyncio
+from crawl4ai import AsyncWebCrawler
+from crawl4ai.async_configs import BrowserConfig, CrawlerRunConfig
 
-def scrape_bilkatogo_frontpage():
-    """
-    Scrape the Bilka To Go front page and return the HTML content.
-    
-    Returns:
-        str: HTML content of the Bilka To Go front page
-    """
-    url = "https://www.bilkatogo.dk/"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
-    
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()  # Raise an exception for 4XX/5XX responses
-        return response.text
-    except requests.exceptions.RequestException as e:
-        print(f"Error scraping Bilka To Go: {e}")
-        return None
+async def main():
+    browser_config = BrowserConfig()  # Default browser configuration
+    run_config = CrawlerRunConfig()   # Default crawl run configuration
+
+    async with AsyncWebCrawler(config=browser_config) as crawler:
+        result = await crawler.arun(
+            url="https://www.bilkatogo.dk/",
+            config=run_config
+        )
+        print(result.markdown)  # Print clean markdown content
 
 if __name__ == "__main__":
-    html_content = scrape_bilkatogo_frontpage()
-    if html_content:
-        print(f"Successfully scraped {len(html_content)} bytes of HTML content")
-    else:
-        print("Failed to scrape Bilka To Go front page")
-    print(html_content[:500])  # Print the first 500 characters of the HTML content for verification
+    asyncio.run(main())
+
+
 # import os
 # import sys
 # import json
