@@ -28,13 +28,44 @@ jobs:
           pipx install uv
           uv pip install -e . --system
 
-  docker:
+  docker-m:
     needs: test
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
       contents: 'read'
       id-token: 'write'
+    if: github.event_name == 'push' || github.event_name == 'pull_request'
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v3
+      -
+        name: Set up QEMU
+        uses: docker/setup-qemu-action@v2
+      -
+        name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+        with:
+          driver-opts: image=moby/buildkit:v0.10.6
+          buildkitd-flags: --debug
+      -
+        name: Build
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          push: false
+          tags: |
+            bilka2go-scraper:latest
+
+  docker-merge:
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+    if: github.branch == 'main' && github.event_name == 'push'
     steps:
       -
         name: Checkout
@@ -55,7 +86,6 @@ jobs:
         with:
           service_account: ${{ secrets.SERVICE_ACCOUNT }}@${{ secrets.PROJECT_ID }}.iam.gserviceaccount.com
           credentials_json: '${{ secrets.SERVICE_ACCOUNT_KEY }}'
-
       - 
         name: Login to Artifact Registry
         uses: docker/login-action@v3
@@ -63,7 +93,6 @@ jobs:
           registry: ${{ secrets.GAR_REGION }}-docker.pkg.dev
           username: _json_key
           password: '${{ secrets.SERVICE_ACCOUNT_KEY }}'
-
       -
         name: Build and push
         uses: docker/build-push-action@v4
