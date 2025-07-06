@@ -59,8 +59,8 @@ jobs:
           tags: |
             bilka2go-scraper:latest
           # Use GitHub Actions cache for Docker layers to speed up builds
-          cache-from: type=gha
-          cache-to: type=gha,mode=max
+          # cache-from: type=gha
+          # cache-to: type=gha,mode=max
 
   docker-main:
     needs: test
@@ -107,6 +107,6 @@ jobs:
           tags: |
             ${{ secrets.GAR_REGION }}-docker.pkg.dev/${{ secrets.PROJECT_ID }}/${{ secrets.GAR_REPO }}/bilka2go-scraper:latest
           # Reuse cached layers from previous builds to speed up CI
-          cache-from: type=gha
-          # Cache all layers for maximum reuse (mode=max)
-          cache-to: type=gha,mode=max
+          # cache-from: type=gha
+          # # Cache all layers for maximum reuse (mode=max)
+          # cache-to: type=gha,mode=max
