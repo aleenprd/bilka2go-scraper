@@ -28,7 +28,7 @@ jobs:
           pipx install uv
           uv pip install -e . --system
 
-  docker-m:
+  docker-pull-request:
     needs: test
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -58,7 +58,7 @@ jobs:
           tags: |
             bilka2go-scraper:latest
 
-  docker-merge:
+  docker-main:
     needs: test
     runs-on: ubuntu-latest
     timeout-minutes: 5
