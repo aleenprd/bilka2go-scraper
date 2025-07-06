@@ -428,32 +428,32 @@ def main():
     
     # Set up the browser configuration
     browser_config = BrowserConfig(
-        browser_type="firefox",  # or "chromium" for Chrome
-        headless=True,  # Set to False for debugging; True for production
-        use_managed_browser=False,
-        verbose=True,
-        text_mode=False,  # Set to True for text mode (disables images, CSS, etc.)
-        java_script_enabled=True,
-        user_agent_mode="random",
-        viewport_width=2560,
-        viewport_height=1440,
-        light_mode=False,  # Set to True for light mode (disables features for performance optimization)
+    #     browser_type="firefox",  # or "chromium" for Chrome
+    #     headless=True,  # Set to False for debugging; True for production
+        # use_managed_browser=False,
+        # verbose=False,
+        # text_mode=True,  # Set to True for text mode (disables images, CSS, etc.)
+        # java_script_enabled=True,
+        # user_agent_mode="random",
+        # viewport_width=2560,
+        # viewport_height=1440,
+        # light_mode=False,  # Set to True for light mode (disables features for performance optimization)
     )
 
     run_cfg = CrawlerRunConfig(
         extraction_strategy=JsonCssExtractionStrategy(SCHEMA),
-        wait_until="domcontentloaded",  # Wait until the DOM is fully loaded
+        # wait_until="domcontentloaded",  # Wait until the DOM is fully loaded
         js_code=JS_CODE,
         delay_before_return_html=1,
         scan_full_page=True,
         scroll_delay=1,
-        remove_overlay_elements=False,
-        remove_forms=False,
-        simulate_user=False,
-        verbose=False,
-        process_iframes=False,  # Process iframes to extract content
-        magic=False,  # Enable magic mode for advanced scraping features
-        cache_mode=CacheMode.BYPASS,  # Use CacheMode.BYPASS to ensure fresh content is fetched
+        # remove_overlay_elements=False,
+        # remove_forms=False,
+        # simulate_user=False,
+        # verbose=False,
+        # process_iframes=False,  # Process iframes to extract content
+        # magic=False,  # Enable magic mode for advanced scraping features
+        # cache_mode=CacheMode.BYPASS,  # Use CacheMode.BYPASS to ensure fresh content is fetched
     )
 
     # Scrape each category
