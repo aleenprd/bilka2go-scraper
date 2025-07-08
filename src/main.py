@@ -532,8 +532,7 @@ def main():
         data_df = data_df.drop_duplicates(subset=["product_id"])
         
         # Replace NaN values with None, which will be converted to null in JSON
-        data_df = data_df.replace({pd.NA: None})
-        data_df = data_df.where(pd.notna(data_df), None)
+        data_df = data_df.fillna(value=None)
         data = data_df.to_dict(orient="records")
         
         logger.info(f"Writing the result content to '{filename}'...")
