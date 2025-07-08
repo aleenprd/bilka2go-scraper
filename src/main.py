@@ -4,6 +4,7 @@ import json
 import pytz
 import asyncio
 import argparse
+import pandas as pd
 from loguru import logger
 from dotenv import load_dotenv
 from datetime import datetime
@@ -523,7 +524,18 @@ def main():
             item["category_dk"] = category
             item["category_en"] = translation
             item["job_run_datetime"] = job_run_datetime_str
-            
+        
+        # Before writing to file, ensure we don't have duplicate entries
+        logger.info(f"Removing duplicates from the scraped data for category: {category}")
+        data_df = pd.DataFrame(data)
+        data_df = data_df[data_df["image_url"] != "/images/svg/loading.svg"]
+        data_df.drop_duplicates(subset=["product_id"], inplace=True)
+        
+        # Replace NaN values with None, which will be converted to null in JSON
+        data_df = data_df.replace({pd.NA: None})
+        data_df = data_df.where(pd.notna(data_df), None)
+        data = data_df.to_dict(orient="records")
+        
         logger.info(f"Writing the result content to '{filename}'...")
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
