@@ -529,7 +529,7 @@ def main():
         logger.info(f"Removing duplicates from the scraped data for category: {category}")
         data_df = pd.DataFrame(data)
         data_df = data_df[data_df["image_url"] != "/images/svg/loading.svg"]
-        data_df.drop_duplicates(subset=["product_id"], inplace=True)
+        data_df = data_df.drop_duplicates(subset=["product_id"])
         
         # Replace NaN values with None, which will be converted to null in JSON
         data_df = data_df.replace({pd.NA: None})
