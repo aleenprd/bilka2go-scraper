@@ -529,10 +529,11 @@ def main():
         logger.info(f"Removing duplicates from the scraped data for category: {category}")
         data_df = pd.DataFrame(data)
         data_df = data_df[data_df["image_url"] != "/images/svg/loading.svg"]
-        data_df = data_df.drop_duplicates(subset=["product_id"])
+        data_df.drop_duplicates(subset=["product_id"], inplace=True)
         
         # Replace NaN values with None, which will be converted to null in JSON
-        data_df = data_df.fillna(value=None)
+        data_df = data_df.replace({pd.NA: None})
+        data_df = data_df.where(pd.notna(data_df), None)
         data = data_df.to_dict(orient="records")
         
         logger.info(f"Writing the result content to '{filename}'...")
