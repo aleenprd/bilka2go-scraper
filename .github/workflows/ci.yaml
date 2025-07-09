@@ -35,8 +35,8 @@ jobs:
     permissions:
       contents: 'read'
       id-token: 'write'
-    # Only run for pushes to main or pull requests to main
-    if: github.event_name == 'push' || github.event_name == 'pull_request'
+    # Only run for pull requests to main
+    if: github.event_name == 'pull_request'
     steps:
       -
         name: Checkout
